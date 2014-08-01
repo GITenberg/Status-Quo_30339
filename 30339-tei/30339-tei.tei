@@ -1,0 +1,7629 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://www.gutenberg.org/tei/marcello/0.4/dtd/pgtei.dtd" [
+
+<!ENTITY u5  "http://www.tei-c.org/Lite/">
+
+]>
+
+<TEI.2 lang="en">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Status Quo</title>
+      <author><name reg="Reynolds, Dallas McCord">Dallas McCord Reynolds</name></author>
+    </titleStmt>
+    <editionStmt>
+      <edition n="1">Edition 1</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>Project Gutenberg</publisher>
+      <date>October 26, 2009</date>
+      <idno type="etext-no">30339</idno>
+      <availability>
+        <p>This eBook is for the use of anyone anywhere at no cost and
+        with almost no restrictions whatsoever. You may copy it, give it
+        away or re-use it under the terms of the Project Gutenberg
+        License online at www.gutenberg.org/license</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        Created electronically.
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  </encodingDesc>
+  <profileDesc>
+    <langUsage>
+      <language id="en"></language>
+      <language id="fr"></language>
+    </langUsage>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date value="2009-19-26">October 26, 2009</date>
+      <respStmt>
+        <name>
+            Produced by Greg Weeks, David King, and the Online
+            Distributed Proofreading Team at &lt;http://www.pgdp.net/&gt;.
+        </name>
+      </respStmt>
+      <item>Project Gutenberg TEI edition 1</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<pgExtensions>
+  <pgStyleSheet>
+    .boxed           { x-class: boxed }
+    .shaded          { x-class: shaded }
+    .rules           { x-class: rules; rules: all }
+    .indent          { margin-left: 2 }
+    .bold            { font-weight: bold }
+    .italic          { font-style: italic }
+    .smallcaps       { font-variant: small-caps }
+  </pgStyleSheet>
+
+  <pgCharMap formats="txt.iso-8859-1">
+    <char id="U0x2014">
+      <charName>mdash</charName>
+      <desc>EM DASH</desc>
+      <mapping>--</mapping>
+    </char>
+    <char id="U0x2003">
+      <charName>emsp</charName>
+      <desc>EM SPACE</desc>
+      <mapping>  </mapping>
+    </char>
+    <char id="U0x2026">
+      <charName>hellip</charName>
+      <desc>HORIZONTAL ELLIPSIS</desc>
+      <mapping>...</mapping>
+    </char>
+  </pgCharMap>
+</pgExtensions>
+
+<text lang="en">
+  <front>
+    <div>
+      <divGen type="pgheader" />
+    </div>
+    <div>
+      <divGen type="encodingDesc" />
+    </div>
+
+    <div rend="page-break-before: always">
+      <p rend="font-size: xx-large; text-align: center">Status Quo</p>
+      <p rend="font-size: xx-large; text-align: center">by Dallas McCord Reynolds</p>
+      <p rend="font-size: large; text-align: center">Illustrated by John Schoenherr</p>
+      <p rend="text-align: center">Analog Science Fact &amp; Fiction</p>
+      <p rend="text-align: center">August 1961</p>
+    </div>
+
+  </front>
+<body>
+
+<pb n='004'/><anchor id='Pg004'/>
+
+<div>
+
+<p>
+[Transcriber's Note: This text was produced from Analog Science Fact &amp;
+Fiction August 1961.  Extensive research did not uncover any evidence that the U.S.
+copyright on this publication was renewed.]
+</p>
+
+<p>
+In his income bracket
+and in the suburb in
+which he lived, government
+employees in the
+twenty-five to thirty-five
+age group were currently wearing
+tweeds. Tweeds were in. Not to wear
+tweeds was Non-U.
+</p>
+
+<p>
+Lawrence Woolford wore tweeds.
+His suit, this morning, had first seen
+the light of day on a hand loom in
+Donegal. It had been cut by a Swede
+widely patronized by serious young
+career men in Lawrence Woolford's
+status group; English tailors were out
+currently and Italians unheard of.
+</p>
+
+<p>
+Woolford sauntered down the walk
+before his auto-bungalow, scowling at
+the sportscar at the curb&mdash;wrong year,
+wrong make. He'd have to trade
+it in on a new model. Which was a
+shame in a way, he liked the car.
+However, he had no desire to get a
+reputation as a weird among colleagues
+and friends. What was it
+Senator Carey MacArthur had said
+the other day? Show me a weird and
+I'll show you a person who has taken
+the first step toward being a Commie.
+</p>
+
+<p>
+Woolford slid under the wheel,
+dropped the lift lever, depressed gently
+the thrust pedal and took off for
+downtown Greater Washington. Theoretically,
+he had another four days of
+vacation coming to him. He wondered
+<pb n='006'/><anchor id='Pg006'/>
+what the Boss wanted. That
+was the trouble in being one of the
+Boss' favorite trouble shooters, when
+trouble arose you wound up in the
+middle of it. Lawrence Woolford was
+to the point where he was thinking in
+terms of graduating out of field work
+and taking on a desk job which
+meant promotion in status and pay.
+</p>
+
+<p>
+He turned over his car to a parker
+at the departmental parking lot and
+made his way through the entrance
+utilized by second-grade departmental
+officials. In another year, he told
+himself, he'd be using that other
+door.
+</p>
+
+<p>
+The Boss' reception secretary
+looked up when Lawrence Woolford
+entered the anteroom where she presided.
+<q>Hello, Larry,</q> she said. <q>Hear
+they called your vacation short. Darn
+shame.</q>
+</p>
+
+<p>
+LaVerne Polk was a cute little
+whizz of efficiency. Like Napoleon
+and his army, she knew the name of
+every member of the department and
+was on a first-name basis with all.
+However, she was definitely a weird.
+For instance, styles might come and
+styles might go, but LaVerne dressed
+for comfort, did her hair the way she
+thought it looked best, and wore low-heeled
+walking shoes on the job. In
+fact, she was ready and willing to
+snarl at anyone, no matter how kindly
+intentioned, who even hinted that
+her nonconformity didn't help her
+promotion prospects.
+</p>
+
+<p>
+Woolford said, <q>Hi, LaVerne. I
+think the Boss is expecting me.</q>
+</p>
+
+<p>
+<q>That he is. Go right in, Larry.</q>
+</p>
+
+<p>
+She looked after him when he
+turned and left her desk. Lawrence
+Woolford cut a pleasant figure as thirty
+year old bachelors go.
+</p>
+
+<p>
+The Boss looked up from some report
+on his desk which he'd been
+frowning at, nodded to his field man
+and said, <q>Sit down, Lawrence. I'll be
+with you in a minute. Please take a
+look at this while you're waiting.</q> He
+handed over a banknote.
+</p>
+
+<p>
+Larry Woolford took it and found
+himself a comfortable chair. He examined
+the bill, front and back. It
+was a fifty dollar note, almost new.
+</p>
+
+<p>
+Finally the Boss, a stocky but impeccable
+career bureaucrat of the ultra-latest
+school, scribbled his initials
+on the report and tossed it into an
+Out chute. He said to Woolford, <q>I
+am sorry to cut short your vacation,
+Lawrence. I considered giving Walter
+Foster the assignment, but I think
+you're the better choice.</q>
+</p>
+
+<p>
+Larry decided the faint praise routine
+was the best tactic, said earnestly
+about his closest rival. <q>Walt's a good
+man, sir.</q> And then, <q>What's the
+crisis?</q>
+</p>
+
+<p>
+<q>What do you think of that fifty?</q>
+</p>
+
+<p>
+His trouble shooter looked down at
+it. <q>What is there to think about it?</q>
+</p>
+
+<p>
+The Boss grunted, slid open a desk
+drawer and brought forth another bill.
+<q>Here, look at this, please.</q>
+</p>
+
+<p>
+It was another fifty. Larry Woolford
+frowned at it, not getting whatever
+was going on.
+</p>
+
+<p>
+<q>Observe the serial numbers,</q> the
+Boss said impatiently.
+</p>
+
+<p>
+They were identical.
+</p>
+
+<p>
+Woolford looked up. <q>Counterfeit.
+Which one is the bad one?</q>
+</p>
+
+<pb n='007'/><anchor id='Pg007'/>
+
+<p>
+<q>That is exactly what we would like
+to know,</q> the Boss said.
+</p>
+
+<p>
+Larry Woolford stared at his superior,
+blinked and then examined the
+bills again. <q>A beautiful job,</q> he said,
+<q>but what's it got to do with us, sir?
+This is Secret Service jurisdiction,
+counterfeiting.</q>
+</p>
+
+<p>
+<q>They called us in on it. They
+think it might have international
+ramifications.</q>
+</p>
+
+<p>
+Now they were getting somewhere.
+Larry Woolford put the two
+bills on the Boss' desk and leaned
+back in his chair, waiting.
+</p>
+
+<p>
+His superior said, <q>Remember the
+Nazis turning out American and
+British banknotes during the Second
+War?</q>
+</p>
+
+<p>
+<q>I was just a kid.</q>
+</p>
+
+<p>
+<q>I thought you might have read
+about it. At any rate, obviously a government&mdash;with
+all its resources&mdash;could
+counterfeit perfectly any currency in
+the world. It would have the skills,
+the equipment, the funds to accomplish
+the task. The Germans turned
+out hundreds of millions of dollars
+and pounds with the idea of confounding
+the Allied financial basics.</q>
+</p>
+
+<p>
+<q>And why didn't it work?</q>
+</p>
+
+<p>
+<q>The difficulty of getting it into
+circulation, for one thing. However,
+they did actually use a quantity. For a
+time our people were so alarmed that
+they wouldn't allow any bills to come
+into this country from Mexico except
+two-dollar denomination&mdash;the one
+denomination the Germans hadn't
+bothered to duplicate. Oh, they had
+the Secret Service in a dither for a
+time.</q>
+</p>
+
+<p>
+Woolford was frowning. <q>What's
+this got to do with our current situation?</q>
+</p>
+
+<p>
+The Boss said, <q>It is only a conjecture.
+One of those bills is counterfeit
+but such an excellent reproduction
+that the skill involved is beyond the
+resources of any known counterfeiter.
+Secret Service wants to know if it
+might be coming from abroad,
+and, if so, from where. If it's a governmental
+project, particularly a Soviet
+Complex one, then it comes into
+the ken of our particular cloak-and-dagger
+department.</q>
+</p>
+
+<p>
+<q>Yes, sir.</q> Woolford said. He got
+up and examined the two bills again.
+<q>How'd they ever detect that one was
+bad?</q>
+</p>
+
+<p>
+<q>Pure fortune. A bank clerk with
+an all but eidetic memory was going
+through a batch of fifties. It's not too
+commonly used a denomination, you
+know. Coincidence was involved
+since in that same sheaf the serial
+number was duplicated.</q>
+</p>
+
+<p>
+<q>And then?</q>
+</p>
+
+<p>
+<q>The reproduction was so perfect
+that Secret Service was in an immediate
+uproar. Short of the Nazi effort,
+there has never been anything like it.
+A perfect duplication of engraving
+and paper identically the same. The
+counterfeiters have even evidently
+gone to the extent of putting a certain
+amount of artificial wear on the
+bills before putting them into circulation.</q>
+</p>
+
+<p>
+Larry Woolford said, <q>This is out
+of my line. How were they able to
+check further, and how many more
+did they turn up?</q>
+</p>
+
+<pb n='008'/><anchor id='Pg008'/>
+
+<p>
+<q>The new I.B.M. sorters help. Secret
+Service checked every fifty dollar
+bill in every institution in town
+both banking and governmental.
+Thus far, they have located ten bills
+in all.</q>
+</p>
+
+<p>
+<q>And other cities?</q>
+</p>
+
+<p>
+<q>None. They've all been passed in
+Greater Washington, which is suspicious
+in itself. The amount of expense
+that has gone into the manufacture
+of these bills does not allow
+for only a handful of them being
+passed. They should be turning up in
+number. Lawrence, this reproduction
+is such that a pusher could walk into
+a bank and have his false currency
+changed by any clerk.</q>
+</p>
+
+<p>
+<q>Wow,</q> Larry whistled.
+</p>
+
+<p>
+<q>Indeed.</q>
+</p>
+
+<p>
+<q>So you want me to work with Secret
+Service on this on the off chance
+that the Soviet Complex is doing us
+deliberate dirt.</q>
+</p>
+
+<p>
+<q>That is exactly the idea, Lawrence.
+Get to work, please, and keep in
+touch with me. If you need support,
+I can assign Walter Foster or some of
+the other operatives to assist you.
+This might have endless ramifications.</q>
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+Back in the anteroom, Woolford
+said to the Boss' receptionist, <q>I'm on
+a local job, LaVerne, how about assigning
+me a girl?</q>
+</p>
+
+<p>
+<q>Can do,</q> she said.
+</p>
+
+<p>
+<q>And, look, tell her to get hold of
+every available work on counterfeiting
+and pile it on my desk.</q>
+</p>
+
+<p>
+<q>Right. Thinking of going into
+business, Larry?</q>
+</p>
+
+<p>
+He grinned down at her. <q>That's
+the idea. Keeping up with the Jones
+clan in this man's town costs roughly
+twice my income.</q>
+</p>
+
+<p>
+LaVerne said disapprovingly,
+<q>Then why not give it up? With the
+classification you've got a single man
+ought to be able to save half
+his pay.</q> She added, more quietly, <q>Or
+get married and support a family.</q>
+</p>
+
+<p>
+<q>Save half my pay?</q> Larry snorted.
+<q>And get a far out reputation, eh?
+No thanks, you can't afford to be a
+weird these days.</q>
+</p>
+
+<p>
+She flushed&mdash;and damn prettily,
+Larry Woolford decided. She could be
+an attractive item if it wasn't for obviously
+getting her kicks out of being
+individualistic.
+</p>
+
+<p>
+Larry said suddenly, <q>Look, promise
+like a good girl not to make us
+conspicuous and I'll take you to the
+Swank Room for dinner tonight.</q>
+</p>
+
+<p>
+<q>Is that where all the bright young
+men currently have to be seen
+once or twice a week?</q> she snapped
+back at him. <q>Get lost, Larry. Being a
+healthy, normal woman I'm interested
+in men, but not necessarily in
+walking status-symbols.</q>
+</p>
+
+<p>
+It was his turn to flush, and, he decided
+wryly, he probably didn't do it
+as prettily as she did.
+</p>
+
+<p>
+On his way to his office, he wondered
+why the Boss kept her on.
+Classically, a secretary-receptionist
+should have every pore in place, but
+in her time LaVerne Polk must have
+caused more than one bureaucratic
+eyebrow to raise. Efficiency was probably
+the answer; the Boss couldn't
+afford to let her go.
+</p>
+
+<pb n='009'/><anchor id='Pg009'/>
+
+<p>
+Larry Woolford's office wasn't
+much more than a cubicle. He sat
+down at the desk and banged a drawer
+or two open and closed. He liked
+the work, liked the department, but
+theoretically he still had several days
+of vacation and hated to get back into
+routine.
+</p>
+
+<p>
+Had he known it, this was hardly
+going to be routine.
+</p>
+
+<p>
+He flicked the phone finally and
+asked for an outline. He dialed three
+numbers before getting his subject.
+The phone screen remained blank.
+</p>
+
+<p>
+<q>Hans?</q> he said. <q>Lawrence Woolford.</q>
+</p>
+
+<p>
+The Teutonic accent was heavy,
+the voice bluff. <q>Ah, Larry! you need
+some assistance to make your vacation?
+Perhaps a sinister, exotic young
+lady, complete with long cigarette
+holder?</q>
+</p>
+
+<p>
+Larry Woolford growled, <q>How'd
+you know I was on vacation?</q>
+</p>
+
+<p>
+The other laughed. <q>You know
+better than to ask that, my friend.</q>
+</p>
+
+<p>
+Larry said, <q>The vacation is over,
+Hans. I need some information.</q>
+</p>
+
+<p>
+The voice was more guarded now.
+<q>I owe you a favor or two.</q>
+</p>
+
+<p>
+<q>Don't you though? Look, Hans,
+what's new in the Russkie camp?</q>
+</p>
+
+<p>
+The heartiness was gone. <q>How do
+you mean?</q>
+</p>
+
+<p>
+<q>Is there anything big stirring?  Is
+there anyone new in this country
+from the Soviet Complex?</q>
+</p>
+
+<p>
+<q>Well now&mdash;</q> the other's voice
+drifted away.
+</p>
+
+<p>
+Larry Woolford said impatiently,
+<q>Look, Hans, let's don't waste time
+fencing. You run a clearing agency
+for, <emph>ah</emph>, information. You're strictly a
+businessman, nonpartisan, so to speak.
+Fine, thus far our department has
+tolerated you. Perhaps we'll continue
+to. Perhaps the reason is that we
+figure we get more out of your existence
+than we lose. The Russkies
+evidently figure the same way, the proof
+being that you're alive and
+have branches in the capitals of every
+power on Earth.</q>
+</p>
+
+<p>
+<q>All right, all right,</q> the German
+said. <q>Let me think a moment. Can
+you give me an idea of what you're
+looking for?</q> There was an undernote
+of interest in the voice now.
+</p>
+
+<p>
+<q>No. I just want to know if you've
+heard anything new anti-my-side,
+from the other side. Or if you know
+of any fresh personnel recently from
+there.</q>
+</p>
+
+<p>
+<q>Frankly, I haven't. If you could
+give me a hint.</q>
+</p>
+
+<p>
+<q>I can't,</q> Larry said. <q>Look, Hans,
+like you say, you owe me a favor or
+two. If something comes up, let me
+know. Then I'll owe you one.</q>
+</p>
+
+<p>
+The voice was jovial again. <q>It's a
+bargain, my friend.</q>
+</p>
+
+<p>
+After Woolford had hung up, he
+scowled at the phone. He wondered
+if Hans Distelmayer was lying. The
+German commanded the largest professional
+spy ring in the world. It was
+possible, but difficult, for anything in
+espionage to develop without his having
+an inkling.
+</p>
+
+<p>
+The phone rang back. It was Steve
+Hackett of Secret Service on the
+screen.
+</p>
+
+<p>
+Hackett said, <q>Woolford, you coming
+<pb n='010'/><anchor id='Pg010'/>
+over? I understand you've been
+assigned to get in our hair on this
+job.</q>
+</p>
+
+<p>
+<q>Huh,</q> Larry grunted. <q>The way I
+hear it, your whole department has
+given up, so I'm assigned to help you
+out of your usual fumble-fingered
+confusion.</q>
+</p>
+
+<p>
+Hackett snorted. <q>At any rate, can
+you drop over? I'm to work in liaison
+with you.</q>
+</p>
+
+<p>
+<q>Coming,</q> Larry said. He hung up,
+got to his feet and headed for the
+door. If they could crack this thing
+the first day, he'd take up that vacation
+where it'd been interrupted and
+possibly be able to wangle a few
+more days out of the Boss to boot.
+</p>
+
+<p>
+At this time of day, parking would
+have been a problem, in spite of automation
+of the streets. He left his
+car in the departmental lot and took a
+cab.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+The Counterfeit Division of the
+Secret Service occupied an impressive
+section of an impressive governmental
+building. Larry Woolford
+flashed his credentials here and there,
+explained to guards and receptionists
+here and there, and finally wound up
+in Steve Hackett's office which was
+all but a duplicate of his own in size
+and decor.
+</p>
+
+<p>
+Steve Hackett himself was a fairly
+accurate carbon copy of Woolford,
+barring facial resemblance alone.  The
+fact was, Steve was almost Lincolnesque
+in his ugliness. Career man,
+about thirty, good university, crew
+cut, six foot, one hundred and seventy,
+earnest of eye. He wore Harris tweed.
+Larry Woolford made a note of that;
+possibly herringbone was coming
+back in. He winced at the thought of
+a major change in his wardrobe; it'd
+cost a fortune.
+</p>
+
+<p>
+They'd worked on a few cases together
+before when Steve Hackett
+had been assigned to the presidential
+bodyguard and co-operated well.
+</p>
+
+<p>
+Steve came to his feet and shook
+hands. <q>Thought that you were going
+to be down in Florida bass fishing this
+month. You like your work so well
+you can't stay away, or is it a matter
+of trying to impress your chief?</q>
+</p>
+
+<p>
+Larry growled, <q>Fine thing. Secret
+Service bogs down and they've got to
+call me in to clean up the mess.</q>
+</p>
+
+<p>
+Steve motioned him to a chair and
+immediately went serious. <q>Do you
+know anything about pushing queer,
+Woolford?</q>
+</p>
+
+<p>
+<q>That means passing counterfeit
+money, doesn't it?  All I know is what's
+in the TriD crime shows.</q>
+</p>
+
+<p>
+<q>I can see you're going to be a lot
+of help. Have you got anywhere at all
+on the possibility that the stuff might
+be coming from abroad?</q>
+</p>
+
+<p>
+<q>Nothing positive,</q> Larry said. <q>Are
+you people accomplishing anything?</q>
+</p>
+
+<p>
+<q>We're just getting underway.
+There's something off-trail about this
+deal, Woolford. It doesn't fit into
+routine.</q>
+</p>
+
+<p>
+Larry Woolford said, <q>I wouldn't
+think so if the stuff is so good not
+even a bank clerk can tell the difference.</q>
+</p>
+
+<p>
+<q>That's not what I'm talking about
+now. Let me give you a run down on
+standard counterfeiting.</q> The Secret
+<pb n='011'/><anchor id='Pg011'/>
+Service agent pushed back in his
+swivel chair, lit a cigarette, and
+propped his feet onto the edge of a
+partly open desk drawer. <q>Briefly, it
+goes like this. Some smart lad gets
+himself a set of plates and a platen
+press and&mdash;</q>
+</p>
+
+<p>
+Larry interrupted, <q>Where does he
+get the plates?</q>
+</p>
+
+<p>
+<q>That doesn't matter now,</q> Steve
+said. <q>Various ways. Maybe he makes
+them himself, sometimes he buys them
+from a crooked engraver. But
+I'm talking about pushing green
+goods once it's printed. Anyway, our
+friend runs off, say, a million dollars
+worth of fives. But he doesn't try to
+pass them himself. He wholesales
+them around netting, say, fifty thousand
+dollars. In other words, he sells
+twenty dollars in counterfeit for
+one good dollar.</q>
+</p>
+
+<p>
+Larry pursed his lips. <q>Quite a discount.</q>
+</p>
+
+<p>
+<q>Um-m-m. But that's safest from
+his angle. The half dozen or so distributors
+he sold it to don't try to pass
+it either. They also are playing it
+carefully. They peddle it, at say ten
+to one, to the next rung down the
+ladder.</q>
+</p>
+
+<p>
+<q>And these are the fellows that
+pass it, eh?</q>
+</p>
+
+<p>
+<q>Not even then, usually. These
+small timers take it and pass it on at
+five to one to the suckers in the trade,
+who take the biggest risks. Most of
+these are professional pushers of the
+queer, as the term goes. Some, however,
+are comparative amateurs. Sailors
+for instance, who buy with the
+idea of passing it in some foreign
+port where seamen's money flows
+fast.</q>
+</p>
+
+<p>
+Larry Woolford shifted in his
+chair. <q>So what are you building up
+to?</q>
+</p>
+
+<p>
+Steve Hackett rubbed the end of
+his pug nose with a forefinger in
+quick irritation. <q>Like I say, that's
+standard counterfeit procedure. We're
+all set up to meet it, and do a pretty
+good job. Where we have our difficulties
+is with amateurs.</q>
+</p>
+
+<p>
+Woolford scowled at him.
+</p>
+
+<p>
+Hackett said, <q>Some guy who makes
+and passes it himself, for instance.
+He's unknown to the stool pigeons,
+has no criminal record, does up comparatively
+small amounts and dribbles
+his product onto the market over
+a period of time. We had one old
+devil up in New York once who actually
+<emph>drew</emph> one dollar bills. He was a
+tremendous artist. It took us years to
+get him.</q>
+</p>
+
+<p>
+Larry Woolford said, <q>Well, why go
+into all this? We're hardly dealing
+with amateurs now.</q>
+</p>
+
+<p>
+Steve looked at him. <q>That's the
+trouble. We are.</q>
+</p>
+
+<p>
+<q>Are you batty? Not even your
+own experts can tell this product
+from real money.</q>
+</p>
+
+<p>
+<q>I didn't say it was being <emph>made</emph> by
+amateurs. It's being <emph>pushed</emph> by amateurs&mdash;or
+maybe amateur is the better
+word.</q>
+</p>
+
+<p>
+<q>How do you know?</q>
+</p>
+
+<p>
+<q>For one thing, most professionals
+won't touch anything bigger than a
+twenty. Tens are better, fives better
+still. When you pass a fifty, the person
+you give it to is apt to remember
+<pb n='012'/><anchor id='Pg012'/>
+where he got it.</q> Steve Hackett said
+slowly, <q>Particularly if you give one
+as a tip to the <foreign lang='fr' rend='italic'>maître d'hôtel</foreign> in a
+first-class restaurant. A <foreign lang='fr' rend='italic'>maître d'</foreign> holds
+his job on the strength of his ability
+to remember faces and names.</q>
+</p>
+
+<p rend='text-align: center'>
+  <figure url='images/p12.png' rend='width: 30%'>
+    <figDesc>Illustration.</figDesc>
+  </figure>
+</p>
+
+<p>
+<q>What else makes you think your
+pushers are amateurs?</q>
+</p>
+
+<p>
+<q>Amateur,</q> Hackett corrected.
+<q>Ideally, a pusher is an inconspicuous
+type. The kind of person whose face
+you'd never remember. It's never a
+teenage girl who's blowing money.</q>
+</p>
+
+<p>
+It was time to stare now, and Larry
+Woolford obliged. <q>A teenager!</q>
+</p>
+
+<p>
+<q rend='pre'>We've had four descriptions of
+her, one of them excellent. Fredrick,
+the <foreign lang='fr' rend='italic'>maître d'</foreign> over at La Calvados, is
+the one that counts, but the others
+jibe. She's bought perfume and gloves
+at Michel Swiss, the swankiest shop
+in town, a dress at Chez Marie&mdash;she
+passed three fifties there&mdash;and a hat
+at Paulette's over on Monroe Street.</q>
+</p>
+
+<p>
+<q>That's another sign of the amateur,
+by the way. A competent pusher
+buys a small item and gets change
+from his counterfeit bill. Our girl's
+been buying expensive items, obviously
+more interested in the product
+than in her change.</q>
+</p>
+
+<p>
+<q>This doesn't seem to make much
+sense,</q> Larry Woolford protested.
+<q>You have any ideas at all?</q>
+</p>
+
+<p>
+<q>The question is,</q> Hackett said,
+<q>where did she get it? Is she connected
+with one of the embassies and
+acquired the stuff overseas? If so, that
+puts it in your lap again possibly&mdash;</q>
+</p>
+
+<p>
+The phone rang and Steve flicked
+the switch and grumbled, <q>Yeah?
+Steven Hackett speaking.</q>
+</p>
+
+<pb n='013'/><anchor id='Pg013'/>
+
+<p>
+He listened for a moment then
+banged the phone off and jumped to
+his feet. <q>Come on, Larry,</q> he
+snapped. <q>This is it.</q>
+</p>
+
+<p>
+Larry stood, too. <q>Who was that?</q>
+</p>
+
+<p>
+<q>Fredrick, over at La Calvados. The
+girl has come in for lunch. Let's go!</q>
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+La Calvados was the swankiest
+French restaurant in Greater Washington,
+a city not devoid of swank
+restaurants. Only the upper-echelons
+in governmental circles could afford
+its tariffs; the clientele was more apt
+to consist of business mucky-mucks
+and lobbyists on the make. Larry
+Woolford had eaten here exactly
+twice. You could get a reputation
+spending money far beyond your obvious
+pay status.
+</p>
+
+<p>
+Fredrick, the <foreign lang='fr' rend='italic'>maître de hôtel</foreign>, however,
+was able to greet them both by
+name. <q>Monsieur Hackett, Monsieur
+Woolford,</q> he bowed. He obviously
+didn't approve of La Calvados being
+used as a hangout where counterfeiters
+were picked up the authorities.
+</p>
+
+<p>
+<q>Where is she?</q> Steve said, looking
+out over the public dining room.
+</p>
+
+<p>
+Fredrick said, unprofessionally agitated,
+<q>See here, Monsieur Hackett,
+you didn't expect to, ah, arrest the
+young lady <emph>here</emph> during our lunch
+hour?</q>
+</p>
+
+<p>
+Steve looked at him impatiently.
+<q>We don't exactly beat them over the
+head with blackjacks, slip the bracelets
+on and drag them screaming to
+the paddywagon.</q>
+</p>
+
+<p>
+<q>Of course not, monsieur, but&mdash;</q>
+</p>
+
+<p>
+Larry Woolford's chief dined
+here several times a week and was
+probably on the best of terms with
+Fredrick whose decisions on tables
+and whose degree of servility had a
+good deal of influence on a man's
+status in Greater Washington. Larry
+said wearily, <q>We can wait until she
+leaves. Where is she?</q>
+</p>
+
+<p>
+Fredrick had taken them to one
+side.
+</p>
+
+<p>
+<q>Do you see the young lady over
+near the window on the park? The
+rather gauche appearing type?</q>
+</p>
+
+<p>
+It was a teenager, all right. A
+youngster up to her eyebrows in the
+attempt to project sophistication.
+</p>
+
+<p>
+Steve said, <q>Do you know who she
+is?</q>
+</p>
+
+<p>
+<q>No,</q> Fredrick said. <q>Hardly our
+usual clientele.</q>
+</p>
+
+<p>
+<q>Oh?</q> Larry said. <q>She looks like
+money.</q>
+</p>
+
+<p>
+Fredrick said, <q>The dress appears as
+though it is of Chez Marie, but she
+wears it as though it came from
+Klein's. Her perfume is Chanel, but
+she has used approximately three
+times the quantity one would expect.</q>
+</p>
+
+<p>
+<q>That's our girl, all right,</q> Steve
+murmured. <q>Where can we keep an
+eye on her until she leaves?</q>
+</p>
+
+<p>
+<q>Why not at the bar here, Messieurs?</q>
+</p>
+
+<p>
+<q>Why not?</q> Larry said. <q>I could
+use a drink.</q>
+</p>
+
+<p>
+Fredrick cleared his throat. <q>Ah,
+Messieurs, that fifty I turned over
+you. I suppose it turned out to be
+spurious?</q>
+</p>
+
+<p>
+Steve grinned at him. <q>Afraid so,
+Fredrick. The department is holding
+it.</q>
+</p>
+
+<pb n='014'/><anchor id='Pg014'/>
+
+<p>
+Larry took out his wallet. <q>However,
+we have a certain leeway on expenses
+on this assignment and appreciate
+your co-operation.</q> He
+handed two twenties and a ten to the
+<foreign lang='fr' rend='italic'>maître d'</foreign>. Fredrick bowed low, the
+money disappearing into his clothes
+magically. <q><foreign lang='fr' rend='italic'>Merci bien</foreign>, monsieur.</q>
+</p>
+
+<p>
+At the bar, Steve scowled at his
+colleague. <q>Ha!</q> he said. <q>Why didn't
+I think of that first? He'll get
+down on his knees and bump his
+head each time he sees you in the
+joint from now on.</q>
+</p>
+
+<p>
+Larry Woolford waggled a finger
+at the other. <q>This is a status conscious
+town, my boy. Prestige means
+everything. When I take over my
+Boss' job, maybe we can swing a
+transfer and I'll give you a position
+suitable to your attainments.</q> He
+pursed his lips judiciously. <q>Although,
+come to think of it, that
+might mean a demotion from the job
+you're holding now.</q>
+</p>
+
+<p>
+<q>Vodka martini,</q> Steve told the
+bartender. <q>Polish vodka, of course.</q>
+</p>
+
+<p>
+<q>Of course, sir.</q>
+</p>
+
+<p>
+Larry said, <q>Same for me.</q>
+</p>
+
+<p>
+The bartender left and Steve muttered,
+<q>I hate vodka.</q>
+</p>
+
+<p>
+<q>Yeah,</q> Larry said, <q>But what're
+you going to do in a place like this,
+order some weird drink?</q>
+</p>
+
+<p>
+Steve dug into his pocket for
+money. <q>We're not going to have to
+drink them. Here she comes.</q>
+</p>
+
+<p>
+She walked with her head held
+high, hauteur in every step. Ignoring
+the peasants at the tables she passed.
+</p>
+
+<p>
+<q>Holy smokes,</q> Steve grunted.
+<q>It's a wonder Fredrick let her in.</q>
+</p>
+
+<p>
+She hesitated momentarily before
+the doorway of the prestige restaurant
+allowing the passers-by to realize
+she'd just emerged, and then
+turned to her right to promenade
+along the shopping street.
+</p>
+
+<p>
+Fifty feet below La Calvados, Steve
+said, <q>Let's go, Woolford.</q>
+</p>
+
+<p>
+One stepped to one elbow, the
+other to the other. Steve said quietly,
+<q>I wonder if we could ask you a few
+questions?</q>
+</p>
+
+<p>
+Her eyebrows went up, <q>I <emph>beg</emph> your
+pardon!</q>
+</p>
+
+<p>
+Steve sighed and displayed the
+badge pinned to his wallet, keeping
+it inconspicuous. <q>Secret Service,
+Miss,</q> he murmured.
+</p>
+
+<p>
+<q>Oh, devil,</q> she said. She looked up
+at Larry Woolford, and then back at
+Steve.
+</p>
+
+<p>
+Steve said, <q>Among other things,
+we're in charge of counterfeit money.</q>
+</p>
+
+<p>
+She was about five foot four in her
+heels, had obviously been on a round
+of beauty shops and had obviously
+instructed them to glamorize her. It
+hadn't come off. She still looked as
+though she'd be more at home as
+cheerleader of the junior class in
+small town high school. She was
+honey blond, green-blue of eye, and
+had that complexion they seldom
+carry even into the twenties.
+</p>
+
+<p>
+<q>I ... I don't know what you're
+talking about.</q> Her chin began to
+tremble.
+</p>
+
+<p>
+Larry said gently, <q>Don't worry.
+We just want to ask you some questions.</q>
+</p>
+
+<p>
+<q>Well ... like what?</q> She was
+<pb n='015'/><anchor id='Pg015'/>
+going to be blinking back tears in a
+moment. At least Larry hoped she'd
+blink them back. He'd hate to have
+her start howling here in public.
+</p>
+
+<p>
+Larry said, <q>We think you can be of
+assistance to the government, and
+we'd like your help.</q>
+</p>
+
+<p>
+Steve rolled his eyes upward, but
+turned and waved for a street level
+cab.
+</p>
+
+<p>
+In the cab, Larry said, <q>Suppose we
+go over to my office, Steve?</q>
+</p>
+
+<p>
+<q>O.K. with me,</q> Steve muttered,
+<q>but by the looks of the young lady
+here, I think it's a false alarm from
+your angle. She's obviously an American.
+What's your name, Miss?</q>
+</p>
+
+<p>
+<q>It's Zusanette. Well, really, Susan.</q>
+</p>
+
+<p>
+<q>Susan what?</q>
+</p>
+
+<p>
+<q>I ... I'm not sure I want to tell
+you. I ... I want a lawyer.</q>
+</p>
+
+<p>
+<q>A lawyer!</q> Steve snorted. <q>You
+mean you want the juvenile authorities,
+don't you?</q>
+</p>
+
+<p>
+<q>Oh, what a mean thing to say,</q>
+she sputtered.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+In the corridor outside the Boss'
+suite of offices, Larry said to Steve,
+<q>You take Miss ... ah, Zusanette
+to my office, will you Steve. I'll be
+there in a minute.</q>
+</p>
+
+<p>
+He opened the door to the anteroom
+and said, <q>LaVerne, we've got a
+girl in my office&mdash;</q>
+</p>
+
+<p>
+<q>Why, Larry!</q>
+</p>
+
+<p>
+He glowered at her. <q>A suspect. I
+want a complete tape of everything
+said. As soon as we're through, have
+copies made, at least three or four.</q>
+</p>
+
+<p>
+<q>And, who, Mr. Woolford, was
+your girl Friday last year?</q>
+</p>
+
+<p>
+<q>This is important, honey. I suppose
+you've supplied me with a secretary
+but I haven't even met her
+yet. Take care of it, will you?</q>
+</p>
+
+<p>
+<q>Sure enough, Larry.</q>
+</p>
+
+<p>
+He followed Steve and the girl to
+his office.
+</p>
+
+<p>
+Once seated, the girl and Steve in
+the only two extra chairs the cubicle
+boasted and Larry behind his desk,
+he looked at her in what he hoped
+was reassurance. <q>Just tell us where
+you got the money, Zusanette.</q>
+</p>
+
+<p>
+Steve reached out a hand suddenly
+and took her bag from her lap.
+She gasped and snatched at it, but
+he eluded her and she sat back, her
+chin trembling again.
+</p>
+
+<p>
+Steve came up with a thick sheaf
+of bills, the top ones, at least, all
+fifties and tossed them to Larry's
+desk. He took out a school pass and
+read, <q>Susan Self, Elwood Avenue.</q>
+He looked up at Larry and said,
+<q>That's right off Eastern, near Paterson
+Park in the Baltimore section of
+town, isn't it?</q>
+</p>
+
+<p>
+Larry said to her, <q>Zusanette, I think
+you'd better tell us where you got all
+this money.</q>
+</p>
+
+<p>
+<q>I found it,</q> she said defiantly.
+<q>You can't do anything to me if I
+simply found it. Anybody can find
+money. Finders keepers&mdash;</q>
+</p>
+
+<p>
+<q>But if it's counterfeit,</q> Steve interrupted
+dryly, <q>it might also be,
+finders weepers.</q>
+</p>
+
+<p>
+<q>Where did you find it, Zusanette?</q>
+Larry said gently.
+</p>
+
+<p>
+She tightened her lips, and the
+trembling of her chin disappeared.
+<q>I ... I can't tell you that. But it's
+<pb n='016'/><anchor id='Pg016'/>
+not counterfeit. Daddy ... my father
+said it was as good as any money
+the government prints.</q>
+</p>
+
+<p>
+<q>That it is,</q> Steve said sourly.
+<q>But it's still counterfeit, which
+makes it very illegal indeed to spend,
+Miss Self.</q>
+</p>
+
+<p>
+She looked from one of them
+to the other, not clear about her position.
+She said to Larry, <q>You mean
+it's not <emph>real</emph> money?</q>
+</p>
+
+<p>
+He kept his tone disarming, but
+shook his head, <q>I'm afraid not, Zusanette.
+Now, tell us, where did you
+find it?</q>
+</p>
+
+<p>
+<q>I can't. I promised</q>
+</p>
+
+<p>
+<q>I see. Then you don't know to
+whom it originally belonged?</q>
+</p>
+
+<p>
+<q>It didn't belong to anybody.</q>
+</p>
+
+<p>
+Steve Hackett made with a disbelieving
+whistle. He was taking the
+part of the tough, suspicious cop;
+Larry the part of the understanding,
+sympathetic officer, trying to give the
+suspect a break.
+</p>
+
+<p>
+Susan Self turned quickly on Steve.
+<q>Well, it didn't. You don't even
+know.</q>
+</p>
+
+<p>
+Larry said, <q>I think she's telling the
+truth, Steve. Give her a chance. She's
+playing fair.</q> He looked back at the
+girl, and frowned his puzzlement.
+<q>All money belongs to <emph>somebody</emph>
+doesn't it?</q>
+</p>
+
+<p>
+She had them now. She said superiorly.
+<q>Not necessarily to some<emph>body</emph>.
+It can belong to, like, an organization.</q>
+</p>
+
+<p>
+Steve grunted skepticism. <q>I think
+we ought to arrest her,</q> he said.
+</p>
+
+<p>
+Larry held up a hand, his face registering
+opposition. <q>I'll handle this,</q>
+he said sharply. <q>Zusanette is doing
+everything she can to co-operate.</q> He
+turned back to the girl. <q>Now, the
+question is, what organization did this
+money belong to?</q>
+</p>
+
+<p>
+She looked triumphantly at Steve
+Hackett. <q>It belonged to the Movement.</q>
+</p>
+
+<p>
+They both looked at her.
+</p>
+
+<p>
+Steve said finally, <q>What movement?</q>
+</p>
+
+<p>
+She pouted in thought. <q>That's the
+only name they call it.</q>
+</p>
+
+<p>
+<q>Who's they?</q> Steve snapped nastily.
+</p>
+
+<p>
+<q>I ... I don't know.</q>
+</p>
+
+<p>
+Larry said, <q>Well, you already told
+us your father was a member, Zusanette.</q>
+</p>
+
+<p>
+Her eyes went wide. <q>I did? I
+shouldn't have said that.</q> But she
+evidently took him at his word.
+</p>
+
+<p>
+Larry said encouragingly, <q>Well,
+we might as well go on. Who else is
+a member of this Movement besides
+your father?</q>
+</p>
+
+<p>
+She shifted in her chair uncomfortably.
+<q>I don't know any of their names.</q>
+</p>
+
+<p>
+Steve looked down at the school
+pass in his hands. He said to Larry,
+<q>I'd better make a phone call.</q>
+</p>
+
+<p>
+He left.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+Larry said, <q>Don't worry about him,
+Zusanette. Now then, this <emph>movement</emph>.
+That's kind of a funny name, isn't it?
+What does it mean?</q>
+</p>
+
+<p>
+She was evidently glad that the less
+than handsome Steve Hackett had
+left the room. Her words flowed more
+freely. <q>Well, Daddy says that they
+<pb n='017'/><anchor id='Pg017'/>
+call it the Movement rather than a
+revolution....</q>
+</p>
+
+<p>
+An ice cube manifested itself in
+the stomach of Lawrence Woolford.
+</p>
+
+<p>
+<q>... Because people get conditioned,
+like, to words. Like revolution.
+Everybody is against the word
+because they all think of killing and
+everything, and, Daddy says, there
+doesn't have to be any shooting or
+killing or anything like that at all. It
+just means a fundamental change in
+society. And, Daddy says, take the
+word propaganda. Everybody's got to
+thinking that it automatically means
+lies, but it doesn't at all. It just means,
+like, the arguments you use to convince
+people that what you stand for
+is right and it might be lies or it
+might not. And, Daddy says, take the
+word socialism. So many people have
+the wrong idea of what it means that
+the socialists ought to scrap the word
+and start using something else to
+mean what they stand for.</q>
+</p>
+
+<p>
+Larry said gently, <q>Your father is
+a socialist?</q>
+</p>
+
+<p>
+<q>Oh, no.</q>
+</p>
+
+<p>
+He nodded in understanding. <q>Oh,
+a Communist, eh?</q>
+</p>
+
+<p>
+Susan Self was indignant. <q>Daddy
+thinks the Communists are strictly
+awful, really weird.</q>
+</p>
+
+<p>
+Steve Hackett came back into the
+office. He said to Larry, <q>I sent a couple
+of the boys out to pick him up.</q>
+</p>
+
+<p>
+Susan was on her feet, a hand to
+mouth. <q>You mean my father! You're
+going to arrest him!</q>
+</p>
+
+<p>
+Larry said soothingly, <q>Sit down,
+Zusanette. There's a lot of things
+about this that I'm sure your father
+can explain.</q> He said to Steve, <q>She
+tells me that the money belonged to
+a movement. A revolutionary movement
+which doesn't use the term
+revolutionary because people react
+unfavorably to that word. It's not
+Commie.</q>
+</p>
+
+<p>
+Susan said indignantly, <q>It's American,
+not anything foreign!</q>
+</p>
+
+<p>
+Steve growled, <q>Let's get back to
+the money. What's this movement doing
+with a lot of counterfeit bills and
+where did you find them?</q>
+</p>
+
+<p>
+She evidently figured she'd gone
+too far now to take a stand. <q>It's not
+Daddy's fault,</q> she said. <q>He took me
+to headquarters twice.</q>
+</p>
+
+<p>
+<q>Where's headquarters?</q> Larry said
+trying to keep his voice soothing.
+</p>
+
+<p>
+<q>Well ... I don't know. Daddy
+was awfully silly about it. He tied his
+handkerchief around my eyes near
+the end. But the others complained
+about me anyway, and Daddy got awfully
+mad and said something about
+the young people of the country participating
+in their emancipation and
+all, but the others got mad too, and
+said there wasn't any kind of help I
+could do around headquarters anyway,
+and I'd be better off in school.
+Everybody got awfully mad, but after
+the second time Daddy promised not
+to take me to headquarters any more.</q>
+</p>
+
+<p>
+<q>But where did you find the money,
+Zusannette?</q> Larry said.
+</p>
+
+<p>
+<q>At headquarters. There's tons and
+tons of it there.</q>
+</p>
+
+<p>
+Larry cleared his throat and said,
+<q>When you say tons and tons, you
+mean a great deal of it, eh?</q>
+</p>
+
+<p>
+She was proudly definite. <q>I mean
+<pb n='018'/><anchor id='Pg018'/>
+tons and tons. A ton is two thousand
+pounds.</q>
+</p>
+
+<p>
+<q>Look, Zusanette,</q> Larry said reasonably.
+<q>I don't know how much
+money weighs, exactly, but let's say a
+pound would be, say, a thousand bills.</q>
+He took up a pencil and scribbled on
+a pad before him. <q>A pound of fifties
+would be $50,000. Then if you multiply
+that by 2,000 pounds to make a
+ton, you'd have $100,000,000. And
+you say there's tons and tons?</q>
+</p>
+
+<p>
+<q>And that's just the fifties,</q> Susan
+said triumphantly. <q>So you can see
+the two little packages I picked up
+aren't really important at all. It's just
+like I found them.</q>
+</p>
+
+<p>
+<q>I don't think there's quite a thousand
+bills in a pound,</q> Steve said weakly.
+</p>
+
+<p>
+Larry said, <q>How much other money
+is there?</q>
+</p>
+
+<p>
+<q>Oh, piles. Whole rooms. Rooms
+after rooms. And hundred dollar bills,
+and twenties, and fives, and tens&mdash;</q>
+</p>
+
+<p>
+Larry said, <q>Look, Zusanette,
+I don't think you're in any position to be
+telling us whoppers. This whole story
+doesn't make much sense, does it?</q>
+</p>
+
+<p>
+Her mouth tightened. <q>I'm not going
+to say anything more until Daddy
+gets here, anyway,</q> she said.
+</p>
+
+<p>
+Which was when the phone rang.
+</p>
+
+<p>
+<q>I have an idea that's for me,</q>
+Steve said.
+</p>
+
+<p>
+The screen lit up and LaVerne Polk
+said, <q>Call for Steve Hackett, Larry.</q>
+</p>
+
+<p>
+Larry pushed the phone around so
+Steve could look into it. LaVerne
+flicked off and was replaced by a
+stranger in uniform. Steve said,
+<q>Yeah?</q>
+</p>
+
+<p>
+The cop said, <q>He's flown the coop,
+sir. Must have got out just minutes
+before we arrived. Couldn't have taken
+more than a suitcase. Few papers
+scattered around the room he used
+for an office.</q>
+</p>
+
+<p>
+Susan gasped, <q>You mean Daddy?</q>
+</p>
+
+<p>
+Steve Hackett rubbed a hand over
+his flattened nose. <q>Holy Smokes,</q> he
+said. He thanked the cop and flicked
+off.
+</p>
+
+<p>
+Larry said, <q>Look Zusanette, everything's
+going to be all right. Nothing
+will happen to you. You say you managed
+to pick up two packets of all
+this money they have at headquarters.
+O.K. So you thought it wouldn't be
+missed and you've always wanted to
+spend money the way you see the
+stars do on TriD and in the movies.</q>
+</p>
+
+<p>
+She looked at him, taken back.
+<q>How did you know?</q>
+</p>
+
+<p>
+Larry said dryly, <q>I've always wanted
+to myself. But I would like to know
+one more thing. The Movement.
+What was it going to do with all this
+money?</q>
+</p>
+
+<p>
+That evidently puzzled her. <q>The
+Professor said they were going to
+spend it on chorus girls. I guess ...
+I guess he was joking or something.
+But Daddy and I'd just been up to
+New York and we saw those famous
+precision dancers at the New Roxy
+Theatre and all and then when we got
+back the Professor and Daddy were
+talking and I heard him say it.</q>
+</p>
+
+<p>
+Steve said, carefully, <q>Professor
+who?</q>
+</p>
+
+<p>
+Susan said, <q>Just the Professor.
+That's all we ever call him.</q> Her chin
+went to trembling still again.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<pb n='019'/><anchor id='Pg019'/>
+
+<p>
+Larry summed it up for the Boss
+later.
+</p>
+
+<p>
+His chief scoffed his disbelief. <q>The
+child is full of dreams, Lawrence. It
+comes from seeing an over-abundance
+of these TriD shows. I have a girl the
+same age. I don't know what is happening
+to the country. They have no
+sense of reality.</q>
+</p>
+
+<p>
+Larry Woolford said mildly, <q>Well,
+she might be full of nonsense, but she
+did have the fifties, and she's our only
+connection with whoever printed
+them whether it's a movement to
+overthrow the government, or what.</q>
+</p>
+
+<p>
+The Boss said tolerantly, <q>Movement,
+indeed. Obviously, her father
+produced them and she purloined a
+quantity before he was ready to attempt
+to pass them. Have you a run
+down on him yet?</q>
+</p>
+
+<p>
+<q>Susan Self says her father, Ernest
+Self, is an inventor. Steve Hackett is
+working on locating him.</q>
+</p>
+
+<p>
+<q>He's an inventor indeed. Evidently,
+he has invented a perfect counterfeiting
+device. However, that is the
+Secret Service's headache, not ours.
+Do you wish to resume that vacation
+of yours, Lawrence?</q>
+</p>
+
+<p>
+His operative twisted his face in a
+grimace. <q>Sure, I do, but I'm not happy
+about this, sir. What happens if there
+really is an organization, a
+Movement, like she said?  That brings
+it back under our jurisdiction, anti-subversion.</q>
+</p>
+
+<p>
+The other shook his head tolerantly.
+<q>See here, Lawrence, when you begin
+scheming a social revolution you
+can't plan on an organization composed
+of a small number of persons
+who keep their existence secret. In
+spite of what a good many persons
+seem to believe, revolutions are not
+accomplished by handfuls of conspirators
+hiding in cellars and eventually
+overthrowing society by dramatically
+shooting the President, or King, or
+Czar, or whoever. Revolutions are
+precipitated by masses of people.
+People who have ample cause to be against
+whatever the current government happens to be. Usually,
+they are on the point of actual
+starvation. Have you ever read Machiavelli?</q>
+</p>
+
+<p>
+Niccolo Machiavelli was currently
+<emph>the thing</emph> to read. Larry said with a
+certain dignity, <q>I've gone through
+<q>The Prince,</q> the <q>Discourses</q> and currently
+I'm amusing myself with his
+<q>History of Florence.</q></q>
+</p>
+
+<p>
+<q>Anybody who can amuse himself
+reading Machiavelli,</q> the Boss said
+dryly, <q>has a macabre sense of humor.
+At any rate, what I was alluding to was
+where he stated that the Prince cannot
+rule indefinitely in the face of the
+active opposition of his people.
+Therefore, the people always get a
+government that lies within the limits
+of their tolerance. It may be on
+one edge or the other of their limits
+of tolerance&mdash;but it's always within
+their tolerance zone.</q>
+</p>
+
+<p>
+Larry frowned and said, <q>Well,
+what's your point, sir?</q>
+</p>
+
+<p>
+The Boss said patiently, <q>I'm just
+observing that cultures aren't overthrown
+by little handfuls of secret
+conspirators. You might eliminate a
+few individuals in that manner, in
+other words change the personnel of
+<pb n='020'/><anchor id='Pg020'/>
+the government, but you aren't going
+to alter a socio-economic system. That
+can't be done until your people have
+been pushed outside their limits of
+tolerance. Very well then. A revolutionary
+organization must get out
+and propagandize. It has got to convince
+the people that they are being
+pushed beyond endurance. You
+have got to get the <emph>masses</emph> to moving. You
+have to give speeches, print newspapers,
+books, pamphlets, you have
+got to send your organizers out to intensify
+interest in your program.</q>
+</p>
+
+<p>
+Larry said, <q>I see what you mean.
+If this so-called Movement actually
+existed it couldn't expect to get anywhere
+as long as remained secret.</q>
+</p>
+
+<p>
+The Boss nodded. <q>That is correct.
+The <emph>leaders</emph> of a revolutionary movement
+might be intellectuals, social
+scientists, scholars&mdash;in fact they usually
+are&mdash;take our own American
+Revolution with Jefferson, Madison,
+Franklin, Washington. Or the French
+Revolution with Robespierre, Danton,
+Marat, Engels and Lenin. All were
+well educated intellectuals from
+the middle class. But the revolution itself,
+once it starts, comes from below,
+from the mass of people pushed beyond
+tolerance.</q>
+</p>
+
+<p>
+It came to Lawrence Woolford that
+his superior had achieved to his
+prominent office not through any
+fluke. He knew what he was talking
+about.
+</p>
+
+<p>
+The Boss wound it up. <q>If there was
+such an organization as this Movement,
+then this department would
+know about it. You don't keep a
+revolutionary movement secret. It
+doesn't make sense to even try. Even
+if it is forced underground, it makes
+as much noise as it can.</q>
+</p>
+
+<p>
+His trouble shooter cleared his
+throat. <q>I suppose you're right, sir.</q>
+He added hesitantly. <q>We could always
+give Susan Self a few drops of
+Scop-Serum, sir.</q>
+</p>
+
+<p>
+The Boss scowled disapprovingly.
+<q>You know how the Supreme Court
+ruled on that, Lawrence. And particularly
+since the medics revealed its effect
+on reducing sexual inhibitions.
+No, Mr. Hackett and Secret Service
+will have to get the truth out of the
+girl by some other means. At any
+rate, it is out of our hands.</q>
+</p>
+
+<p>
+Larry came to his feet. <q>Well, then,
+I'll resume my vacation, eh?</q>
+</p>
+
+<p>
+His chief took up a report from his
+desk an frowned at it, his attention
+already passing to other matters. He
+grunted, <q>Clear it with LaVerne,
+please. Tell her I said to take another
+week to make up for our intruding
+on you in this manner.</q>
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+In the back of his head, Larry
+Woolford had misgivings. For one
+thing, where had the kid, who on the
+face of her performance was no great
+brain even as sixteen or seventeen
+old's go, picked up such ideas as the
+fact that people developed prejudices
+against words like revolution and
+propaganda?
+</p>
+
+<p>
+However, he was clear of it now.
+Let Steve Hackett and his people take
+over. He, Lawrence Woolford, was
+due for a quick return to Astor, Florida
+<pb n='021'/><anchor id='Pg021'/>
+and the bass fishing on the
+St. John's River.
+</p>
+
+<p>
+He stopped at LaVerne's desk and
+gave her his address to be, now that
+his vacation was resumed.
+</p>
+
+<p>
+She said, smiling up at him. <q>Right.
+The boss already told me to get in
+touch with Secret Service and let
+them know we're pulling out. What
+happened to Susan Self?</q>
+</p>
+
+<p>
+Larry looked at her. <q>How'd you
+know about Susan?</q>
+</p>
+
+<p>
+Her tone was deprecating. <q>Remember?
+You had me cut some
+tapes on you and that hulking Steve
+Hackett grilling the poor kid.</q>
+</p>
+
+<p>
+Larry snorted. <q>Poor kid, yet. With
+her tastes for living-it-up, and that
+father she has, she'll probably spend
+the rest of her life getting in Steve's
+hair as a counterfeit pusher.</q>
+</p>
+
+<p>
+<q>What are they going to do with
+her? She's just a child.</q>
+</p>
+
+<p>
+The agent shrugged. <q>I feel sorry
+for her, too, LaVerne. Steve's got her
+in a suite at the Greater Washington
+Hilton, until things are cleared up.
+They don't want the newspapers to
+get wind of this until they've got that
+inventor father of hers and whatever
+he's cooked up to turn out perfect
+reproductions of Uncle Sam's money.
+Look, I won't be leaving until tomorrow.
+What'd you say we go out on
+the town tonight?</q>
+</p>
+
+<p>
+<q>Why, Larry Woolford! How nice
+of you to ask me. Poor Little, Non-U
+me. What do you have in mind? I
+understand Mort Lenny's at one of
+the night clubs.</q>
+</p>
+
+<p>
+Larry winced. <q>You know what
+he's been saying about the administration.</q>
+</p>
+
+<p>
+She smiled sweetly at him.
+</p>
+
+<p>
+Larry said, <q>Look, we could take in
+the Brahms concert, then&mdash;</q>
+</p>
+
+<pb n='022'/><anchor id='Pg022'/>
+
+<p>
+<q>Do you like Brahms? I go for
+popular music myself. Preferably the
+sort of thing they wrote back in the
+1930s. Something you can dance to,
+something you know the words to.
+Corny, they used to call it. Remember
+<q>Sunny Side of the Street,</q> and <q>Just
+the Way You Look Tonight</q>.</q>
+</p>
+
+<p>
+Larry winced again. He said, <q>Look,
+I admit, I don't go for concerts either
+but it doesn't hurt you to&mdash;</q>
+</p>
+
+<p>
+<q>I know,</q> she said sweetly. <q>It
+doesn't hurt for a bright young bureaucrat
+to be seen at concerts.</q>
+</p>
+
+<p>
+<q>How about Dixieland?</q> he said.
+<q>It's all the thing now.</q>
+</p>
+
+<p>
+<q>I like corn. Besides, my wardrobe
+is all out of style. Paris, London, and
+Rome just got in a huddle a couple of
+weeks ago and antiquated everything
+I own. You wouldn't want to be seen
+with a girl a few weeks out of date,
+would you?</q>
+</p>
+
+<p>
+<q>Oh, now, LaVerne, get off my
+back.</q> He thought about it. <q>Look,
+you must have <emph>something</emph> you could
+wear.</q>
+</p>
+
+<p>
+<q>Get out of here, you vacant minded
+conformist! I <emph>like</emph> Mort Lenny, he
+makes me laugh; I <emph>hate</emph> vodka martinis,
+they give me sour stomach; I
+don't <emph>like</emph> the current women's styles,
+nor the men's either.</q> LaVerne spun
+back to her auto-typer and began to
+dictate into it.
+</p>
+
+<p>
+Larry glared down at her. <q>All
+right. O.K. What <emph>do</emph> you like?</q>
+</p>
+
+<p>
+She snapped back irrationally, <q>I
+like what <emph>I</emph> like.</q>
+</p>
+
+<p>
+He laughed at her in ridicule.
+</p>
+
+<p>
+This time she glared at him. <q>That
+makes more sense than you're capable
+of assimilating, Mr. Walking Status
+Symbol. My likes and dislikes aren't
+dictated by someone else. If I like
+corny music, I'll listen to it and the
+devil with Brahms or Dixieland or
+anything else that somebody else tells
+me is all the thing!</q>
+</p>
+
+<p>
+He turned on his heel angrily.
+<q>O.K., O.K., it takes all sorts to make a
+world, weirds and all.</q>
+</p>
+
+<p>
+<q>One more label to hang on people,</q>
+she snarled after him. <q>Everything's
+labels. Be sure and never
+come to any judgments of your own!</q>
+</p>
+
+<p>
+What a woman! He wondered why
+he'd ever bothered to ask her for a
+date. There were so many women in
+this town you waded through them,
+and here he was exposing himself to
+be seen in public with a girl everybody
+in the department knew was as
+weird as they came. It didn't do your
+standing any good to be seen around
+with the type. He wondered all over
+again why the Boss tolerated her as
+his receptionist-secretary.
+</p>
+
+<p>
+He got his car from the parking lot
+and drove home at a high level. Ordinarily,
+the distance being what it
+was, he drove in the lower and slower
+traffic levels but now his frustration
+demanded some expression.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+Back at his suburban auto-bungalow,
+he threw all except the high
+priority switch and went on down
+into his small second cellar den. He
+didn't really feel like a night on the
+town anyway. A few vodka martinis
+under his belt and he'd sleep late and
+he wanted to get up in time for an
+early start for Florida. Besides, in that
+<pb n='023'/><anchor id='Pg023'/>
+respect he agreed with the irritating
+wench. Vermouth was never meant to
+mix with Polish vodka. He wished
+that Sidecars would come back.
+</p>
+
+<p>
+In his den, he shucked off his jacket,
+kicked off his shoes and shuffled into
+Moroccan slippers. He went over to
+his current reading rack and scowled
+at the paperbacks there. His culture
+status books were upstairs where they
+could be seen. He pulled out a western,
+tossed it over to the cocktail table
+that sat next to his chair, and then
+went over to the bar.
+</p>
+
+<p>
+Up above in his living room, he
+had one of the new autobars. You
+could dial any one of more than thirty
+drinks. Autobars were all the rage.
+The Boss had one that gave a selection
+of a hundred. But what difference
+did it make when nobody but
+eccentric old-timers or flighty blondes
+drank anything except vodka martinis?
+He didn't like autobars anyway.
+A well mixed drink is a personal
+thing, a work of competence, instinct
+and art, not something measured to
+the drop, iced to the degree, shaken
+or stirred to a mathematical formula.
+</p>
+
+<p>
+Out of the tiny refrigerator he
+brought a four-ounce cube of frozen
+pineapple juice, touched the edge
+with his thumbnail and let the ultra
+thin plastic peel away. He tossed the
+cube into his mixer, took up a bottle
+of light rum and poured in about
+two ounces. He brought an egg from
+the refrigerator and added that. An
+ounce of whole milk followed and a
+teaspoon of powdered sugar. He
+flicked the switch and let the conglomeration
+froth together.
+</p>
+
+<p>
+He poured it into a king-size
+highball glass and took it over to his
+chair. Vodka martinis be damned, he
+liked a slightly sweet long drink.
+</p>
+
+<p>
+He sat down in the chair, picked up
+the book and scowled at the cover. He
+ought to be reading that Florentine
+history of Machiavelli's, especially if
+the Boss had got to the point where
+he was quoting from the guy. But the
+heck with it, he was on vacation. He
+didn't think much of the Italian diplomat
+of the Renaissance anyway;
+how could you be that far back without
+being dated?
+</p>
+
+<p>
+He couldn't get beyond the first
+page or two.
+</p>
+
+<p>
+And when you can't concentrate
+on a Western, you just can't concentrate.
+</p>
+
+<p>
+He finished his drink, went over to
+his phone and dialed <hi rend='italic'>Department of
+Records</hi> and then <hi rend='italic'>Information</hi>. When
+the bright young thing answered, he
+said, <q>I'd like the brief on an Ernest
+Self who lives on Elwood Avenue,
+Baltimore section of Greater Washington.
+I don't know his code number.</q>
+</p>
+
+<p>
+She did things with switches and
+buttons for a moment and then
+brought a sheet from a delivery chute.
+<q>Do you want me to read it to you,
+sir?</q>
+</p>
+
+<p>
+<q>No, I'll scan it,</q> Larry said.
+</p>
+
+<p>
+Her face faded to be replaced by
+the brief on Ernest Self.
+</p>
+
+<p>
+It was astonishingly short. <hi rend='italic'>Records</hi>
+seemed to have slipped up on this occasion.
+A rare occurrence. He considered
+requesting the full dossier, then
+changed his mind. Instead he dialed
+<pb n='024'/><anchor id='Pg024'/>
+the number of the <hi rend='italic'>Sun-Post</hi> and
+asked for its science columnist.
+</p>
+
+<p>
+Sam Sokolski's puffy face eventually
+faded in.
+</p>
+
+<p>
+Larry said to him sourly, <q>You
+drink too much. You can begin to see
+the veins breaking in your nose.</q>
+</p>
+
+<p>
+Sam looked at him patiently.
+</p>
+
+<p>
+Larry said, <q>How'd you like to
+come over and toss back a few tonight?</q>
+</p>
+
+<p>
+<q>I'm working. I thought you were
+on vacation.</q>
+</p>
+
+<p>
+Larry sighed. <q>I am,</q> he said. <q>O.K.,
+so you can't take a night off and lift a
+few with an old buddy.</q>
+</p>
+
+<p>
+<q>That's right. Anything else, Larry?</q>
+</p>
+
+<p>
+<q>Yes. Look, have you ever heard of
+an inventor named Ernest Self?</q>
+</p>
+
+<p>
+<q>Sure I've heard of him. Covered a
+hassle he got into some years ago. A
+nice guy.</q>
+</p>
+
+<p>
+<q>I'll bet,</q> Larry said. <q>What does he
+invent, something to do with printing
+presses, or something?</q>
+</p>
+
+<p>
+<q>Printing presses? Don't you remember
+the story about him?</q>
+</p>
+
+<p>
+<q>Brief me,</q> Larry said.
+</p>
+
+<p>
+<q>Well&mdash;briefly does it&mdash;it got out a
+couple of years ago that some of our
+rocketeers had bought a solid fuel formula
+from an Italian research outfit
+for the star probe project. Paid them
+a big hunk of Uncle's change for it.
+So Self sued.</q>
+</p>
+
+<p>
+Larry said, <q>You're being <emph>too</emph> brief.
+What d'ya mean, he sued? Why?</q>
+</p>
+
+<p>
+<q>Because he claimed he'd submitted
+the same formula to the same
+agency a full eighteen months earlier
+and they'd turned him down.</q>
+</p>
+
+<p>
+<q>Had he?</q>
+</p>
+
+<p>
+<q>Probably.</q>
+</p>
+
+<p>
+Larry didn't get it. <q>Then why'd
+they turn him down?</q>
+</p>
+
+<p>
+Sam said, <q>Oh, the government
+boys had a good alibi. Crackpots turn
+up all over the place and you have to
+brush them off. Every cellar scientist
+who comes along and says he's got a
+new super-fuel developed from old
+coffee grounds can't be given the welcome
+mat. Something was wrong
+with his math or something and they
+didn't pay much attention to him.
+Wouldn't even let him demonstrate
+it. But it was the same formula, all
+right.</q>
+</p>
+
+<p>
+Larry Woolford was scowling.
+<q>Something wrong with his math?
+What kind of a degree does he have?</q>
+</p>
+
+<p>
+Sam grinned in memory. <q>I got a
+good quote on that. He doesn't have
+any degree. He said he'd learned to
+read by the time he'd reached high
+school and since then he figured
+spending time in classrooms was a
+matter of interfering with his education.</q>
+</p>
+
+<p>
+<q>No wonder they turned him down.
+No degree at all. You can't get anywhere
+in science like that.</q>
+</p>
+
+<p>
+Sam said, <q>The courts rejected his
+suit but he got a certain amount of
+support here and there. Peter Voss,
+over at the university, claims he's one
+of the great intuitive scientists, whatever
+that is, of our generation.</q>
+</p>
+
+<p>
+<q>Who said that?</q>
+</p>
+
+<p>
+<q>Professor Voss. Not that it makes
+any difference what he says. Another
+crackpot.</q>
+</p>
+
+<p>
+After Sam's less than handsome face
+<pb n='025'/><anchor id='Pg025'/>
+was gone from the phone, Larry
+walked over to the bar with his empty
+glass and stared at the mixer for several
+minutes. He began to make himself
+another flip, but cut it short in
+the middle, put down the ingredients
+and went back to the phone to dial
+<hi rend='italic'>Records</hi> again.
+</p>
+
+<p>
+He went through first the brief and
+then the full dossier on Professor
+Peter Luther Voss. Aside from his
+academic accomplishments, particularly
+in the fields of political economy
+and international law, and the dozen
+or so books accredited to him, there
+wasn't anything particularly noteworthy.
+A bachelor in his fifties. No
+criminal record of any kind, of course,
+and no military career. No known political
+affiliations. Evidently a strong
+predilection for Thorstein Veblen's
+theories. And he'd been a friend of
+Henry Mencken back when that old
+nonconformist was tearing down contemporary
+society seemingly largely
+for the fun involved in the tearing.
+</p>
+
+<p>
+On the face of it, the man was no
+radical, and the term <q>crackpot</q>
+which Sam had applied was hardly
+called for.
+</p>
+
+<p>
+Larry Woolford went back to the
+bar and resumed the job of mixing
+his own version of a rum flip.
+</p>
+
+<p>
+But his heart wasn't in it. <hi rend='italic'>The Professor</hi>,
+Susan had said.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+Before he'd gone to bed the night
+before, Larry Woolford had ordered a
+seat on the shuttle jet for Jacksonville
+and a hover-cab there to take
+him to Astor, on the St. Johns River.
+And he'd requested to be wakened in
+ample time to get to the shuttleport.
+</p>
+
+<p>
+But it wasn't the saccharine pleasant
+face of the Personal Service operator
+which confronted him when he
+grumpily answered the phone in the
+morning. In fact, the screen remained
+blank.
+</p>
+
+<p>
+Larry decided that sweet long
+drinks were fine, but that anyone who
+took several of them in a row needed
+to be candied. He grumbled into the
+phone, <q>All right, who is it?</q>
+</p>
+
+<p>
+A Teutonic voice chuckled and
+said, <q>You're going to have to decide
+whether or not you're on vacation, my
+friend. At this time of day, why aren't
+you at work?</q>
+</p>
+
+<p>
+Larry Woolford was waking up. He
+said, <q>What can I do for you, Distelmayer?</q>
+The German merchant-of-espionage
+wasn't the type to make
+personal calls.
+</p>
+
+<p>
+<q>Have you forgotten so soon, my
+friend?</q> the other chuckled. <q>It was I
+who was going to do you a favor.</q> He
+hesitated momentarily, before adding,
+<q>In possible return for future&mdash;</q>
+</p>
+
+<p>
+<q>Yeah, yeah,</q> Larry said. He was
+fully awake now.
+</p>
+
+<p>
+The German said slowly, <q>You
+asked if any of your friends from, ah,
+abroad were newly in the country.
+Frol Eivazov has recently appeared on
+the scene.</q>
+</p>
+
+<p>
+Eivazov! In various respects, Larry
+Woolford's counterpart. Hatchetman
+for the <hi rend='italic'>Chrezvychainaya Komissiya</hi>.
+Woolford had met him on occasion
+when they'd both been present at international
+summit meetings, busily
+working at counter-espionage for
+their respective superiors. Blandly
+<pb n='026'/><anchor id='Pg026'/>
+shaking hands with each other, blandly
+drinking toasts to peace and international
+co-existence, blandly sizing
+each other up and wondering if it'd
+ever come to the point where one
+would <emph>blandly</emph> treat the other to a
+hole in the head, possibly in some
+dark alley in Havana or Singapore,
+Leopoldville or Saigon.
+</p>
+
+<p>
+Larry said sharply, <q>Where is he?
+How'd he get in the country?</q>
+</p>
+
+<p>
+<q>My friend, my friend,</q> the German
+grunted good-humoredly. <q>You
+know better than to ask the first question.
+As for the second, Frol's command
+of American-English is at least
+as good as your own. Do you think
+his <foreign rend='italic'>Komissiya</foreign> less capable than your
+own department and unable to do
+him up suitable papers so that he
+could be, perhaps, a <q>returning tourist</q>
+from Europe?</q>
+</p>
+
+<p>
+Larry Woolford was impatient with
+himself for asking. He said now, <q>It's
+not important. If we want to locate
+Frol and pick him up, we'll probably
+not have too much trouble doing it.</q>
+</p>
+
+<p>
+<q>I wouldn't think so,</q> the other
+said humorously. <q>Since 1919, when
+they were first organized, the so-called
+Communists in this country,
+from the lowest to the highest echelons,
+have been so riddled with police
+agents that a federal judge in New
+England once refused to prosecute a
+case against them on the grounds that
+the party was a United States government
+agency.</q>
+</p>
+
+<p>
+Larry was in no frame of mind for
+the other's heavy humor. <q>Look,
+Hans,</q> he said, <q>what I want to know
+is what Frol is over here for.</q>
+</p>
+
+<p>
+<q>Of course you do,</q> Hans Distelmayer
+said, unable evidently to keep
+note of puzzlement from his voice.
+<q>Larry,</q> he said, <q>I assume your people
+know of the new American underground.</q>
+</p>
+
+<p>
+<q><emph>What</emph> underground?</q> Larry
+snapped.
+</p>
+
+<p>
+The professional spy chief said, his
+voice strange, <q>The Soviets seem to
+have picked up an idea somewhere,
+possibly through their membership in
+this country, that something is abrewing
+in the States. That a change is
+being engineered.</q>
+</p>
+
+<p>
+Larry stared at the blank phone
+screen.
+</p>
+
+<p>
+<q>What kind of a change?</q> he said
+finally. <q>You mean a change to the
+Soviet system?</q> Surely not even the
+self-deluding Russkies could think it
+possible to overthrow the American
+socio-economic system in favor of the
+Soviet brand.
+</p>
+
+<p>
+<q>No, no, no,</q> the German chuckled.
+<q>Of course not. It's not of their
+working at all.</q>
+</p>
+
+<p>
+<q>Then what's Frol Eivazov's interest,
+if they aren't engineering it?</q>
+</p>
+
+<p>
+Distelmayer rumbled his characteristic
+chuckle with humor. <q>My dear
+friend, don't be naive. Anything that
+happens in America is of interest to
+the Soviets. There is delicate peace
+between you now that they have
+changed their direction and are occupying
+themselves largely with the
+economic and agricultural development
+of Asia and such portions of
+the world as have come under their
+hegemony, and while you put all efforts
+<pb n='027'/><anchor id='Pg027'/>
+into modernizing the more backward
+countries among your satellites.</q>
+</p>
+
+<p>
+Larry said automatically, <q>Our allies
+aren't satellites.</q>
+</p>
+
+<p>
+The spy-master went on without
+contesting the statement. <q>There is
+immediate peace but surely governmental
+officials on both sides keep
+careful watch on the internal developments
+of the other. True, the current
+heads of the Soviet Complex
+would like to see the governments of
+all the Western powers changed&mdash;but
+only if they are changed in the direction
+of communism. They are hardly
+interested in seeing changes made
+which would strengthen the West in
+the, ah, Battle For Men's Minds.</q>
+</p>
+
+<p>
+Larry snorted his disgust. <q>What
+sort of change in government would
+strengthen the United States in&mdash;</q>
+</p>
+
+<p>
+The German interrupted smoothly,
+<q>Evidently, that's what Frol seems to
+be here for, Larry. To find out more
+about this movement and&mdash;</q>
+</p>
+
+<p>
+<q>This <emph>what</emph>?</q> Larry blurted.
+</p>
+
+<p>
+<q>The term seems to be <emph>movement</emph>.</q>
+</p>
+
+<p>
+Larry Woolford held a long silence
+before saying, <q>And Frol is actually
+here in this country to buck this ...
+this movement.</q>
+</p>
+
+<p>
+<q>Not necessarily,</q> the other said
+impatiently. <q>He is here to find out
+more about it. Evidently Peking and
+Moscow have heard just enough to
+make them nervous.</q>
+</p>
+
+<p>
+Larry said, <q>You have anything
+more, Hans?</q>
+</p>
+
+<p>
+<q>I'm afraid that's about it.</q>
+</p>
+
+<p>
+<q>All right,</q> Larry said. He added
+absently, <q>Thanks, Hans.</q>
+</p>
+
+<p>
+<q>Thank me some day with deeds,
+not with words,</q> the German chuckled.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+Larry Woolford looked at his watch
+and grimaced. He was either going to
+get going now or forget about doing
+any fishing in Florida this afternoon.
+</p>
+
+<p>
+Grudgingly, he dialed the phone
+company's Personal Service and said
+to the impossibly cheerful blonde
+who answered, <q>Where can I find
+Professor Peter Voss who teaches
+over at the University in Baltimore? I
+don't want to talk with him, just want
+to know where he'll be an hour from
+now.</q>
+</p>
+
+<p>
+While waiting for his information,
+he dressed, deciding inwardly that he
+hated his job, the department in
+which he was employed, the Boss and
+Greater Washington. On top of that,
+he hated himself. He'd already been
+taken off this assignment, why couldn't
+he leave it lay?
+</p>
+
+<p>
+The blonde rang him back. Professor
+Peter Voss was at home. He had
+no classes today. She gave him the
+address.
+</p>
+
+<p>
+Larry Woolford raised his car from
+his auto-bungalow in the Brandywine
+suburb and headed northwest at a
+high level for the old Baltimore section
+of the city.
+</p>
+
+<p>
+The Professor's house, he noted,
+was of an earlier day and located on
+the opposite side of Paterson Park
+from Elwood avenue, the street on
+which Susan Self and her father had
+resided. That didn't necessarily hold
+significance, the park was a large one
+and the Professor's section a well-to-do
+<pb n='028'/><anchor id='Pg028'/>
+neighborhood, while Self's was
+just short of a slum these days.
+</p>
+
+<p>
+He brought his car down to street
+level, and parked before the scholar's
+three-story, brick house. Baltimore-like,
+it was identical to every
+other house in the block; Larry wondered
+vaguely how anybody ever
+managed to find his own place when
+it was very dark out.
+</p>
+
+<p>
+There was an old-fashioned bell at
+the side of the entrance and Larry
+Woolford pushed it. There was no
+identification screen in the door, evidently
+the inhabitants had to open up
+to see who was calling, a tiring chore
+if you were on the far side of the
+house and the caller nothing more
+than a salesman.
+</p>
+
+<p>
+It was obviously the Professor himself
+who answered.
+</p>
+
+<p>
+He was in shirtsleeves, tieless and
+with age-old slippers on his stockingless
+feet. He evidently hadn't bothered
+to shave this morning and he
+held a dog-earred pamphlet in his
+right hand, his forefinger tucked in it
+to mark his place. He wore thick-lensed,
+gold-rimmed glasses through
+which he blinked at Larry Woolford
+questioningly, without speaking. Professor
+Peter Voss was a man in his
+mid fifties, and, on the face of it,
+couldn't care less right now about his
+physical appearance.
+</p>
+
+<p>
+A weird, Larry decided immediately.
+He wondered at the University,
+one of the nation's best, keeping on
+such a figure.
+</p>
+
+<p>
+<q>Professor Voss?</q> he said. <q>Lawrence
+Woolford.</q> He brought forth
+his identification.
+</p>
+
+<p>
+The Professor blinked down at it.
+<q>I see,</q> he said. <q>Won't you come
+in?</q>
+</p>
+
+<p>
+The house was old, all right. From
+the outside, quite acceptable, but the
+interior boasted few of the latest
+amenities which made all the difference
+in modern existence. Larry was
+taken back by the fact that the phone
+which he spotted in the <foreign rend='italic'>entrada</foreign> hadn't
+even a screen&mdash;an old model for
+speaking only.
+</p>
+
+<p>
+The Professor noticed his glance
+and said dryly, <q>The advantages of
+combining television and telephone
+have never seemed valid to me. In my
+own home, I feel free to relax, as you
+can observe. Had I a screen on my
+phone, it would be necessary for me
+to maintain the same appearance as I
+must on the streets or before my
+classes.</q>
+</p>
+
+<p>
+Larry cleared his throat without
+saying anything. This was a weird
+one, all right.
+</p>
+
+<p>
+The living room was comfortable
+in a blatantly primitive way. Three or
+four paintings on the walls which
+were probably originals, Larry decided,
+and should have been in museums.
+Not an abstract among them.
+A Grant Wood, a Marin, and that
+over there could only be a Grandma
+Moses. The sort of things you might
+keep in your private den, but hardly to
+be seen as culture symbols.
+</p>
+
+<p>
+The chairs were large, of leather,
+and comfortable and probably belonged
+to the period before the Second
+War. Peter Voss, evidently, was
+little short of an exhibitionist.
+</p>
+
+<p>
+The Professor took up a battered
+<pb n='029'/><anchor id='Pg029'/>
+humidor. <q>Cigar?</q> he said. <q>Manila.
+Hard to get these days.</q>
+</p>
+
+<p>
+A cigar? Good grief, the man
+would be offering him a chaw of tobacco
+next.
+</p>
+
+<p>
+<q>Thanks, no,</q> Larry said. <q>I smoke
+a pipe.</q>
+</p>
+
+<p>
+<q>I see,</q> the Professor said, lighting
+his stogie. <q>Do you really like a pipe?
+Personally, I've always thought the
+cigar by far the most satisfactory
+method of taking tobacco.</q>
+</p>
+
+<p>
+What can you say to a question like
+that? Larry ignored it, as though it
+was rhetorical. Actually, he smoked
+cigarettes in the privacy of his den. A
+habit which was on the proletarian
+side and not consistent with his status
+level.
+</p>
+
+<p>
+He said, to get things under way,
+<q>Professor Voss, what is an intuitive
+scientist?</q>
+</p>
+
+<p>
+The Professor exhaled blue smoke,
+shook out the old-time kitchen match
+with which he'd lit it, and tossed the
+matchstick into an ashtray. <q>Intuitive
+scientist?</q>
+</p>
+
+<p>
+<q>You once called Ernest Self a
+great intuitive scientist.</q>
+</p>
+
+<p>
+<q>Oh, Self. Yes, indeed. What is he
+doing these days?</q>
+</p>
+
+<p>
+Larry said wryly, <q>That's what I
+came to ask you about.</q>
+</p>
+
+<p>
+The Professor was puzzled. <q>I'm
+afraid you came to the wrong place,
+Mr. Woolford. I haven't seen Ernest
+for quite a time. Why?</q>
+</p>
+
+<p>
+<q>Some of his researches seem to
+have taken him rather far afield. Actually,
+I know practically nothing
+about him. I wonder if you could fill
+me in a bit.</q>
+</p>
+
+<p>
+Peter Voss looked at the ash on the
+end of his cigar. <q>I really don't know
+the man that well. He lives across the
+park. Why don't&mdash;</q>
+</p>
+
+<p>
+<q>He's disappeared,</q> Larry said.
+</p>
+
+<p>
+The Professor blinked. <q>I see,</q> he
+said. <q>And in view of the fact that you
+are a security officer, I assume under
+strange circumstances.</q> Larry Woolford
+said nothing and the Professor
+sank back into his chair and pursed
+his lips. <q>I can't really tell you much.
+I became interested in Self two or
+three years ago when gathering materials
+for a paper on the inadequate
+manner in which our country rewards
+its inventors.</q>
+</p>
+
+<p>
+Larry said, <q>I've heard about his suit
+against the government.</q>
+</p>
+
+<p>
+The Professor became more animated.
+<q>Ha!</q> he snorted. <q>One example
+among many. Self is not alone.
+Our culture is such that the genius is
+smothered. The great contributors to
+our society are ignored, or worse.</q>
+</p>
+
+<p>
+Larry Woolford was feeling his
+way. Now he said mildly, <q>I was under
+the impression that American
+free enterprise gave the individual
+the best opportunity to prove himself
+and that if he had it on the ball
+he'd get to the top.</q>
+</p>
+
+<p>
+<q>Were you really?</q> the Professor
+said snappishly. <q>And did you know
+that Edison died a comparatively poor
+man with an estate somewhere in the
+vicinity of a hundred thousand dollars?
+An amount that might sound
+like a good deal to you or me,
+but, when you consider his contributions,
+shockingly little. Did you know
+that Eli Whitney realized little, if
+<pb n='030'/><anchor id='Pg030'/>
+anything, from the cotton gin? Or
+that McCormick didn't invent the
+reaper but gained it in a dubious
+court victory? Or take Robert Goddard,
+one of the best examples of
+modern times. He developed the basics
+of rocket technology&mdash;gyroscopic
+stabilizers, fuel pumps, self-cooling
+motors, landing devices. He died in
+1945 leaving behind twenty-two volumes
+of records that proved priceless.
+What did he get out of his researches?
+Nothing. It was fifteen years later
+that his widow won her suit against
+the government for patent infringements!</q>
+</p>
+
+<p rend='text-align: center'>
+  <figure url='images/p30.png' rend='width: 60%'>
+    <figDesc>Illustration.</figDesc>
+  </figure>
+</p>
+
+<p>
+Larry held up a hand. <q>Really,</q> he
+said. <q>My interest is in Ernest Self.</q>
+</p>
+
+<p>
+The Professor relaxed. <q rend='pre'>Sorry. I'm
+afraid I get carried away. Self, to get
+back to your original question, is a
+great intuitive scientist. Unfortunately
+for him, society being what it is
+today, he fits into few grooves. Our
+educational system was little more
+than an irritation to him and consequently
+he holds no degrees. Needless
+to say, this interfered with his
+gaining employment with the universities
+and the large corporations
+which dominate our country's research,
+not to mention governmental
+agencies.</q>
+</p>
+
+<p>
+<q>Ernest Self holds none of the status
+labels that count. The fact that he
+is a genius means nothing. He is supposedly
+qualified no more than to
+hold a janitor's position in laboratories
+<pb n='031'/><anchor id='Pg031'/>
+where his inferiors conduct experiments
+in fields where he is a
+dozenfold more capable than they.
+No one is interested in his genius,
+they want to know what status labels
+are pinned to him. Ernest has no respect
+for labels.</q>
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+Larry Woolford figured he was
+picking up background and didn't
+force a change of subject. <q>Just what
+do you mean by intuitive scientist?</q>
+</p>
+
+<p>
+<q>It's a term I have used loosely,</q>
+the Professor admitted. <q>Possibly a
+scientist who makes a break-through
+in his field, destroying formerly held
+positions&mdash;in Self's case, without the
+math, without the accepted theories to
+back him. He finds something that
+works, possibly without knowing why
+or how and by using unorthodox analytical
+techniques. An intuitive scientist,
+if I may use the term, is a
+thorn in the side of our theoretical
+physicists laden down with their burden
+of a status label but who are
+themselves short of the makings of a
+Leonardo, a Newton, a Galileo, or
+even a Nicholas Christofilos.</q>
+</p>
+
+<p>
+<q>I'm afraid that last name escapes
+me,</q> Larry said.
+</p>
+
+<p>
+<q>Similar to Self's case and Robert
+Goddard's,</q> Voss said, his voice bitter.
+<q>Although his story has a better ending.
+Christofilos invented the strong-focusing
+principle that made possible
+the multi-billion-volt particle accelerators
+currently so widely used in
+nuclear physics experimentation.
+However, he was nothing but a Greek
+elevator electrical system engineer
+and the supposed experts turned him
+down on the grounds that his math
+was faulty. It seems that he submitted
+the idea in straight-algebra terms instead
+of differential equations. He finally
+won through after patenting the
+discovery and rubbing their noses in
+it. Previously, none of the physics
+journals would publish his paper&mdash;he
+didn't have the right status labels to
+impress them.</q>
+</p>
+
+<p>
+Larry said, almost with amusement,
+<q>You seem to have quite a phobia
+against the status label, as you call it.
+However, I don't see how as complicated
+a world as ours could get
+along without it.</q>
+</p>
+
+<p>
+The Professor snorted his contempt.
+<q>Tell me,</q> he said, <q>to which
+class do you consider yourself to
+belong?</q>
+</p>
+
+<p>
+Larry Woolford shrugged. <q>I suppose
+individuals in my bracket are
+usually thought of as being middle-middle
+class.</q>
+</p>
+
+<p>
+<q>And you have no feeling of revolt
+in having such a label hung on you?
+Consider this system for a moment.
+You have lower-lower, middle-lower,
+and upper-lower; then you have lower-middle,
+middle-middle, upper-middle;
+then you have lower-upper,
+middle-upper, and finally we achieve
+to upper-upper class. Now tell me,
+when we get to that rarified category,
+who do we find? Do we find an Einstein,
+a Schweitzer, a Picasso; outstanding
+scientists, humanitarians, the
+great writers, artists and musicians of
+our day? Certainly not. We find ultra-wealthy
+playboys and girls, a former
+king and his duchess who eke out
+their income by accepting fees to attend
+<pb n='032'/><anchor id='Pg032'/>
+parties, the international born
+set, bearers of meaningless feudalistic
+titles. These are your upper-upper
+class!</q>
+</p>
+
+<p>
+Larry laughed.
+</p>
+
+<p>
+The Professor snapped, <q>You think
+it funny? Let me give you another
+example of our status label culture. I
+have a friend whom I have known
+since childhood. I would estimate
+that Charles has an I.Q. of approximately
+90, certainly no more. His
+family, however, took such necessary
+steps as were needed to get Charles
+through public school. No great matter
+these days, you'll admit, although
+on occasion he needed a bit of tutoring.
+On graduation, they recognized
+that the really better schools might be
+a bit difficult for Charles so he was
+entered in a university with a good
+name but without&mdash;shall we say?&mdash;the
+highest of scholastic ratings.
+Charles plodded along, had some
+more tutoring, probably had his thesis
+ghosted, and eventually graduated. At
+that point an uncle died and left
+Charles an indefinite amount to be
+used in furthering his education to
+any extent he wished to go. Charles,
+motivated probably by the desire to
+avoid obtaining a job and competing
+with his fellow man, managed to
+wrangle himself into a medical school
+and eventually even graduated. Since
+funds were still available, he continued
+his studies abroad, largely in
+Vienna.</q>
+</p>
+
+<p>
+The Professor wound it up. <q>Eventually,
+he ran out of schools, or his
+uncle's estate ran out&mdash;I don't know
+which came first. At any rate, my
+friend Charles, laden down with status
+labels, is today practicing as a psychiatrist
+in this fair city of ours.</q>
+</p>
+
+<p>
+Larry stared at him blankly.
+</p>
+
+<p>
+The Professor said snappishly, <q>So
+any time you feel you need to have
+your brains unscrambled, you can go
+to his office and expend twenty-five
+dollars an hour or so. His reputation
+is of the highest.</q> The Professor
+grunted his contempt. <q>He doesn't
+know the difference between an aspirin
+tablet and a Rorschach test.</q>
+</p>
+
+<p>
+Larry Woolford stirred in his chair.
+<q>We seem to have gotten far off the
+subject. What has this got to do with
+Self?</q>
+</p>
+
+<p>
+The Professor seemed angry. <q>I repeat,
+I'm afraid I get carried away on
+this subject. I'm in revolt against a
+culture based on the status label. It
+eliminates the need to judge a man
+on his merits. To judge a person by
+the clothes he wears, the amount of
+money he possesses, the car he drives,
+the neighborhood in which he lives,
+the society he keeps, or even his ancestry,
+is out of the question in a vital,
+growing society. You wind up with
+nonentities as the leaders of your nation.
+In these days, we can't afford it.</q>
+</p>
+
+<p>
+He smiled suddenly, rather elfishly,
+at the security agent. <q>But admittedly,
+this deals with Self only as one of
+many victims of a culture based on
+status labels. Just what is it you
+wanted to know about Ernest?</q>
+</p>
+
+<p>
+<q>When you knew him, evidently
+he was working on rocket fuels. Have
+you any idea whether he later developed
+a method of producing perfect
+counterfeit?</q>
+</p>
+
+<pb n='033'/><anchor id='Pg033'/>
+
+<p>
+The Professor said, <q>Ernest Self?
+Surely you are jesting.</q>
+</p>
+
+<p>
+Larry said unhappily, <q>Then here's
+another question. Have you ever heard
+him mention belonging to a movement,
+or, I think, he might word it
+<hi rend='italic'>The Movement</hi>.</q>
+</p>
+
+<p>
+<q>Movement?</q> the Professor said
+emptily.
+</p>
+
+<p>
+<q>Evidently a revolutionary group
+interested in the overthrow of the
+government.</q>
+</p>
+
+<p>
+<q>Good heavens,</q> the Professor said.
+<q>Just a moment, Mr. Woolford. You
+interrupted me just as I was having
+my second cup of coffee. Do you
+mind if I&mdash;</q>
+</p>
+
+<p>
+<q>Certainly not,</q> Woolford shook
+his head.
+</p>
+
+<p>
+<q>I simply can't get along until after
+my third cup,</q> the Professor said.
+<q>You just wait a moment and I'll
+bring the pot in here.</q>
+</p>
+
+<p>
+He left Larry to sit in the combined
+study and living room while he
+shuffled off in his slippers to the
+kitchen. Larry Woolford decided that
+in his school days he'd had some far
+out professors himself, but it would
+really be something to study under
+this one. Not that the old boy didn't
+have some points, of course. Almost
+all nonconformists base their particular
+peeves on some actuality, but in
+this case, what was the percentage?
+How could you buck the system?
+Particularly when, largely, it worked.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+The Professor returned with an
+old-fashioned coffeepot, two cups,
+and sugar and cream on a tray. He put
+them on a side table and said to Larry,
+<q>You'll join me? How do you take
+it?</q>
+</p>
+
+<p>
+Larry still had the slightest of
+hang-overs from his solitary drinking
+of the night before. <q>Thanks. Make
+it black,</q> he said.
+</p>
+
+<p>
+The Professor poured, served, then
+did up a cup for himself. He sat back
+in his chair and said, <q>Now, where
+were we? Something about a revolutionary
+group. What has that to do
+with counterfeiting?</q>
+</p>
+
+<p>
+Larry sipped the strong coffee. <q>It
+seems there might be a connection.</q>
+</p>
+
+<p>
+The Professor shook his head. <q>It's
+hard to imagine Ernest Self being
+connected with a criminal pursuit.</q>
+</p>
+
+<p>
+Larry said carefully, <q>Susan seemed
+to be of the opinion that you knew
+about a large amount of counterfeit
+currency that this Movement had on
+hand and that you were in favor of
+spending it upon chorus girls.</q>
+</p>
+
+<p>
+The Professor gaped at him.
+</p>
+
+<p>
+Larry chuckled uncomfortably.
+</p>
+
+<p>
+Professor Voss said finally, his
+voice very even, <q>My dear sir, I am
+afraid that I evidently can be of little
+assistance to you.</q>
+</p>
+
+<p>
+<q>Admittedly, it doesn't seem to
+make much sense.</q>
+</p>
+
+<p>
+<q>Susan&mdash;you mean that little sixteen
+year old?&mdash;said <emph>I</emph> was in favor of
+spending counterfeit money on chorus
+girls?</q>
+</p>
+
+<p>
+Larry said unhappily, <q>She used the
+term <hi rend='italic'>the Professor</hi>.</q>
+</p>
+
+<p>
+<q>And why did you assume that the
+title must necessarily allude to me?
+Even if any of the rest of the fantastic
+story was true.</q>
+</p>
+
+<p>
+Larry said, <q>In my profession, Professor
+<pb n='034'/><anchor id='Pg034'/>
+Voss, we track down every
+possible clue. Thus far, you are the
+only professor of whom we know
+who was connected with Ernest Self.</q>
+</p>
+
+<p>
+Voss said stiffly, <q>I can only say, sir,
+that in my estimation Mr. Self is a
+man of the highest integrity. And, in
+addition, that I have never spent a
+penny on a chorus girl in my life and
+have no intention of beginning, counterfeit
+or otherwise.</q>
+</p>
+
+<p>
+Larry Woolford decided that he
+wasn't doing too well and that he'd
+need more ammunition if he was going
+to return to this particular attack.
+He was surprised that the old boy
+hadn't already ordered him from the
+house.
+</p>
+
+<p>
+He finished the coffee preparatory
+to coming to his feet. <q>Then you
+think it's out of the question, Ernest
+Self belonging to a revolutionary organization?</q>
+</p>
+
+<p>
+The Professor protested. <q>I didn't
+say that at all. Mr. Self is a man of
+ideals. I can well see him belonging
+to such an organization.</q>
+</p>
+
+<p>
+Larry Woolford decided he'd better
+hang on for at least a few more
+words. <q>You don't seem to think,
+yourself, that a subversive organization
+is undesirable in this country.</q>
+</p>
+
+<p>
+The Professor's voice was reasonable.
+<q>Isn't that according to what it
+means to subvert?</q>
+</p>
+
+<p>
+<q>You know what I mean,</q> Woolford
+said in irritation. <q>I don't usually
+think of revolutionists, even when
+they call themselves simply members
+of a <emph>movement</emph>, as exactly idealists.</q>
+</p>
+
+<p>
+<q>Then you're wrong,</q> the Professor
+said definitely, pouring himself another
+cup of coffee. <q>History bears out
+that almost invariably revolutionists
+are men of idealism. The fact that
+they might be either right or wrong in
+their revolutionary program is beside
+the point.</q>
+</p>
+
+<p>
+Larry Woolford began to say, <q>Are
+you sure that you aren't interested in
+this <emph>move&mdash;</emph></q>
+</p>
+
+<p>
+But it was then that the knockout
+drops hit him.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+He came out of the fog feeling
+nausea and with his head splitting.
+He groaned and opened one eye experimentally.
+</p>
+
+<p>
+Steve Hackett, far away, said, <q>He's
+snapping out of it.</q>
+</p>
+
+<p>
+Larry groaned again, opened the
+other eye and attempted to focus.
+</p>
+
+<p>
+<q>What happened?</q> he muttered.
+</p>
+
+<p>
+<q>Now that's an original question,</q>
+Steve said.
+</p>
+
+<p>
+Larry Woolford struggled up into a
+sitting position. He'd been stretched
+out on a couch in the Professor's combined
+living room and study.
+</p>
+
+<p>
+Steve Hackett, his hands on his
+hips, was looking down at him sarcastically.
+There were two or three others,
+one of whom Larry vaguely remembered
+as being a Secret Service
+colleague of Steve's, going about and
+in and out of the room.
+</p>
+
+<p>
+Larry said, his fingers pressing into
+his forehead, <q>My head's killing me.
+Damn it, what's going on?</q>
+</p>
+
+<p>
+Steve said sarcastically, <q>You've
+been slipped a mickey, my cloak and
+dagger friend, and the bird has flown.</q>
+</p>
+
+<p>
+<q>You mean the Professor? He's a
+bird all right.</q>
+</p>
+
+<pb n='035'/><anchor id='Pg035'/>
+
+<p>
+<q>Humor we get, yet,</q> Hackett said,
+his ugly face scowling. <q>Listen, I
+thought you people had pulled out of
+this case.</q>
+</p>
+
+<p>
+Larry sat up and swung his two feet
+around to the floor. <q>So did I,</q> he
+moaned, <q>but there were two or three
+things that bothered me and I thought
+I'd tidy them up before leaving.</q>
+</p>
+
+<p>
+<q>You tidied them up all right,</q>
+Steve grumbled. <q>This Professor Voss
+was practically the only lead I've been
+able to discover. An old friend of
+Self's. And you allowed him to get
+away before we even got here.</q>
+</p>
+
+<p>
+One of Hackett's men came up and
+said, <q>Not a sign of him, Steve. He
+evidently burned a few papers,
+packed a suitcase, and took off. His
+things look suspiciously as though he
+was ready to go into hiding at a moment's
+notice.</q>
+</p>
+
+<p>
+Steve growled to him, <q>Give the
+place the works. He's probably left
+some clues around that'll give us a
+line.</q>
+</p>
+
+<p>
+The other went off and Steve Hackett
+sat down in one of the leather
+chairs and glowered at Larry Woolford.
+<q>Listen,</q> he said, <q>what did you
+people want with Susan Self?</q>
+</p>
+
+<p>
+Larry shook his head for clarity and
+looked at him. <q>Susan? What are you
+talking about? You don't have any
+aspirin, do you?</q>
+</p>
+
+<p>
+<q>No. What'd you mean, what am I
+talking about? You called Betsy
+Hughes and then sent a couple of
+men over to pick the Self kid up.</q>
+</p>
+
+<p>
+<q>Who's Betsy Hughes?</q>
+</p>
+
+<p>
+Steve shook his head. <q>I don't
+know what kind of knockout drops
+the old boy gave you, but they sure
+worked. Betsy's the operative we had
+minding Susan Self over in the
+Greater Washington Hilton. About
+an hour ago you got her on the phone,
+said your department wanted to question
+Susan, and that you were sending
+two men over to pick her up. The two
+men turned up with an order from
+you, and took the girl.</q>
+</p>
+
+<p>
+Larry stared at him. Finally he said,
+<q>What time is it?</q>
+</p>
+
+<p>
+<q>About two o'clock.</q>
+</p>
+
+<p>
+Larry said, <q>I came into this house
+in the morning, talked to the Professor
+for about half an hour and then
+was silly enough to let him give me
+some loaded coffee. He was such a
+weird old buzzard that it never occurred
+to me he might be dangerous.
+At any rate, I've been unconscious for
+several hours. I <emph>couldn't've</emph> called this
+Betsy Hughes operative of yours.</q>
+</p>
+
+<p>
+It was Steve Hackett's turn to
+stare.
+</p>
+
+<p>
+<q>You mean your department doesn't
+have Susan Self?</q>
+</p>
+
+<p>
+<q>Not so far as I know. The Boss told
+me yesterday that we were pulling
+out, that it was all in your hands.
+What would we want with Susan?</q>
+</p>
+
+<p>
+<q>Oh, great,</q> Steve snarled. <q>There
+goes our last contact. Ernest Self,
+Professor Voss, and now Susan Self;
+they've all disappeared.</q>
+</p>
+
+<p>
+<q>Look,</q> Larry said unhappily, <q>let's
+get me some aspirin and then let's go
+and see my chief. I have a sneaking
+suspicion our department is back on
+this case.</q>
+</p>
+
+<p>
+Steve snorted sarcastically. <q>If you
+can foul things up this well when
+<pb n='036'/><anchor id='Pg036'/>
+you're off the case, God only knows
+what you'll accomplish using your
+facilities on an all-out basis.</q>
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+The Boss said slowly, <q>Whoever
+we are working against evidently
+isn't short of resources. Abducting
+that young lady was no simple matter.</q>
+The career diplomat worked his
+lips in and out, in all but a pout.
+</p>
+
+<p>
+Larry Woolford, who'd taken time
+out to go home, shower, change
+clothes and medicate himself out of
+his dope induced hangover, sat across
+the desk from him, flanked by Steve
+Hackett.
+</p>
+
+<p>
+The Boss said sourly, <q>It would
+seem that I was in error. That our
+young Susan Self was not spouting
+fantasy. There evidently actually is an
+underground movement interested in
+changing our institutions.</q> He stirred
+in his chair and his scowl went deeper.
+<q>And evidently working on a basis
+never conceived of by subversive
+organizations of the past. The fact
+that they have successfully remained
+secret even to this department is the
+prime indication that they are attempting
+to make their revolutionary
+changes in a unique manner.</q>
+</p>
+
+<p>
+Larry said, <q>The trouble is, we
+don't even know what it is they
+want.</q>
+</p>
+
+<p>
+<q>However,</q> his superior said slowly,
+<q>we are beginning to get inklings.</q>
+</p>
+
+<p>
+Steve Hackett said, <q>What inklings,
+sir? This sort of thing might be routine
+for you people, but my field is
+counterfeit. I, frankly, don't know
+what it's all about.</q>
+</p>
+
+<p>
+The Boss looked at him. <q>We have
+a clue or two, Mr. Hackett. For one
+thing, we know that this Movement
+of ours has no affiliations with the
+Soviet Complex, nor, so far as we
+know, any foreign element whatsoever.
+If we take Miss Self's word, it is
+strictly an American phenomenon.
+From what little we know of Ernest
+Self and Peter Voss they might be in
+revolt against some of our current institutions
+but there is no reason to
+believe them, ah, <emph>un-American</emph> in the
+usually accepted sense of the word.</q>
+</p>
+
+<p>
+The two younger men looked at
+him as though he was joking.
+</p>
+
+<p>
+He shook his heavy head negatively.
+<q>Actually, what do we have on
+this so-called Movement thus far?
+Aside from treating Lawrence, here,
+to some knockout drops&mdash;and let us
+remember that Lawrence was present
+in the Professor's home without a
+warrant&mdash;all we have is the suspicion
+that they have manufactured a quantity
+of counterfeit.</q>
+</p>
+
+<p>
+<q>A <emph>quantity</emph> is right,</q> Steve Hackett
+blurted. <q>If we're to accept what that
+Self kid told us, they have a few billion
+dollars worth of perfect bills on
+hand.</q>
+</p>
+
+<p>
+<q>A strange amount for counterfeiters
+to produce,</q> The Boss said uncomfortably.
+<q>That is what puzzles
+me. Any revolutionary movement
+needs funds. Remember Stalin as a
+young man? He used to be in charge
+of the Bolshevik gang which robbed
+banks to raise funds for their underground
+newspapers. But a billion dollars?
+What in the world can they expect
+to need that amount for?</q>
+</p>
+
+<pb n='037'/><anchor id='Pg037'/>
+
+<p>
+Larry said, <q>Sir, you keep talking as
+though these characters were a bunch
+of idealistic do-gooders bleeding for
+the sake of the country. Actually,
+from what we know, they're nothing
+but a bunch of revolutionists.</q>
+</p>
+
+<p>
+The Boss was shaking his head.
+<q>You're not thinking clearly, Lawrence.
+Revolution, <hi rend='italic'>per se</hi>, is not illegal
+in the United States. Our Constitution
+was probably the first document
+of its kind which allowed for
+its own amendment. The men who
+wrote it provided for changing it
+either slightly or <hi rend='italic'>in toto</hi>. Whenever
+the majority of the American people
+decide completely to abandon the
+Constitution and govern themselves
+by new laws, they have the right to do
+it.</q>
+</p>
+
+<p>
+<q>Then what's the whole purpose of
+this department, sir?</q> Larry argued.
+<q>Why've we been formed to combat
+foreign and domestic subversion?</q>
+</p>
+
+<p>
+His chief sighed. <q>You shouldn't
+have to ask that, Lawrence. The present
+government cannot oppose the
+will of the majority if it votes, by
+constitutional methods, to make any
+changes it wishes. But we can, and
+do, unmask the activities of anyone
+trying to overthrow the government
+by force and violence. Any culture
+protects itself against that.</q>
+</p>
+
+<p>
+<q>What are we getting at, sir?</q>
+Steve Hackett said, impatiently.
+</p>
+
+<p>
+The Boss shrugged. <q>I'm trying to
+point out that so far as my department
+is concerned, thus far we have
+little against this Movement. Secret
+Service may have, what with this
+wholesale counterfeiting, even though
+thus far they seem to have made no
+attempt to pass the currency they
+have allegedly manufactured. We
+wouldn't even know of it, weren't it
+for our young Susan pilfering an
+amount.</q>
+</p>
+
+<p>
+Larry said, desperately, <q>Sir, you
+just pointed out a few minutes ago
+that this Movement is a secret organization
+trying to make changes in
+some unique manner. In short, they
+don't figure on using the ballot to put
+over their revolution. That makes
+them as illegal as the Commies, doesn't
+it?</q>
+</p>
+
+<p>
+The Boss said, <q>That's the difficulty;
+we don't know what they want.
+From your conversations with Susan
+Self and especially Professor Voss,
+evidently they think the country
+needs some basic changes. What these
+changes are, and how they expect to
+accomplish them, we don't know. Unless
+a foreign government is involved,
+or unless they plan to alter our institutions
+by violence, this department
+just doesn't have much jurisdiction.</q>
+</p>
+
+<p>
+Steve Hackett snorted, <q>Secret Service
+does! If those bales of money the
+Self kid told us about are ever put
+into circulation, there'll be hell to
+pay.</q>
+</p>
+
+<p>
+The Boss sighed. <q>Well,</q> he said,
+<q>Lawrence can continue on the assignment.
+If it develops in such manner
+as to indicate that this department
+is justified in further investigation,
+we'll put more men on it. Meanwhile,
+it is obviously more a Secret
+Service matter. I am sorry to intrude
+upon your vacation again, Lawrence.</q>
+</p>
+
+<pb n='038'/><anchor id='Pg038'/>
+
+<p>
+On awakening in the morning, Larry
+Woolford stared glumly at the
+ceiling for long moments before
+dragging himself from bed. This was,
+he decided, the strangest assignment
+he'd ever been on. In his day he'd
+trekked through South America,
+Common Europe, a dozen African
+states, and even areas of Southern
+Asia, combatting Commie pressures
+here, fellow-traveler organizations
+there, disrupting plots hatched in the
+Soviet Complex in the other place.
+On his home grounds in the United
+States he'd covered everything from
+out and out Soviet espionage, to exposing
+Communist activities of complexions
+from the faintest of pinks to
+the rosiest Trotskyite red. But, he decided
+he'd never expected to wind up
+after a bunch of weirds whose sole
+actionable activity to date seemed to
+be the counterfeiting of a fantastic
+amount of legal tender which thus far
+they were making no attempt to pass.
+</p>
+
+<p>
+He got out of bed and went
+through the rituals of showering,
+shaving and clothing, of coffee, sausage,
+and eggs, toast and more
+coffee.
+</p>
+
+<p>
+What amazed Larry Woolford was
+the shrug-it-off manner in which the
+Boss seemed to accept this underground
+Movement and its admitted
+subversive goals&mdash;whatever they
+were. Carry the Boss' reasoning to its
+ultimate and subversion was perfectly
+all right, just as it didn't involve
+force and violence. If he was in his
+chief's position, he would have
+thrown the full resources of the department
+into tracking down these
+crackpots. As it was, he, Larry Woolford
+was the only operative on the
+job.
+</p>
+
+<p>
+He needed a new angle on which
+to work. Steve Hackett was undoubtedly
+handling the tracing down of
+the counterfeit with all the resources
+of the Secret Service. Possibly there
+was some way of detecting the source
+of the paper they'd used.
+</p>
+
+<p>
+He finished his final cup of coffee
+in the living room and took up the
+<pb n='039'/><anchor id='Pg039'/>
+pipe he was currently breaking in.
+He loaded it automatically from a
+humidor and lit it with his pocket
+lighter. Three drags, and he tossed it
+back to the table, fumbled in a drawer
+and located a pack of cigarettes.
+Possibly his status group was currently
+smoking British briars in public,
+but, let's face it, he hated the confounded
+things.
+</p>
+
+<p>
+He sat down before the phone and
+dialed the offices of the <hi rend='italic'>Sun-Post</hi> and
+eventually got Sam Sokolski who this
+time beat him to the punch.
+</p>
+
+<p>
+Sam said, <q>You shouldn't drink
+alone. Listen, Larry, why don't you
+get in touch with Alcoholics Anonymous.
+It's a great outfit.</q>
+</p>
+
+<p>
+<q>You ought to know,</q> Larry growled.
+<q>Look, Sam, as science columnist for
+that rag you work for you probably
+come in touch with a lot of eggheads.</q>
+</p>
+
+<p>
+<q>Laddy-buck, you have said it,</q>
+Sam said.
+</p>
+
+<p>
+<q>Fine. Now look, what I want to
+know is have you ever heard&mdash;even
+the slightest of rumors&mdash;about an organization
+called the Movement?</q>
+</p>
+
+<p>
+<q>What'd'ya mean, slightest of rumors?
+Half the weirds I run into are
+interested in the outfit. Get two or
+three intellectuals, scientists, technicians,
+or what have you, together and
+they start knocking themselves out on
+the pros and cons of the Movement.</q>
+</p>
+
+<p>
+Larry Woolford stared at him. <q>Are
+you kidding, Sam?</q>
+</p>
+
+<p>
+The other was mystified. <q>Why
+should I kid you? As a matter of fact,
+<pb n='040'/><anchor id='Pg040'/>
+I was thinking of doing a column one
+of these days on Voss and this Movement
+of his.</q>
+</p>
+
+<p>
+<q><emph>Voss</emph> and this movement of his!</q>
+</p>
+
+<p>
+<q>Sure,</q> Sam said, <q>he's the top
+leader.</q>
+</p>
+
+<p>
+<q>Oh, great,</q> Larry growled. <q>Look,
+Sam, eventually there is probably a
+story in this for you. Right now,
+though, we're trying to keep the lid on
+it. Could you brief me a little on this
+Movement? What are they trying to
+put over?</q>
+</p>
+
+<p>
+<q>I seem to spend half my time
+briefing you in information any semi-moron
+ought to be up on,</q> Sam said
+nastily. <q>However, <emph>briefly</emph>, they're in
+revolt against social-label judgments.
+They think it's fouling up the country
+and that eventually it'll result in
+the Russkies passing us in all the
+fields that really count.</q>
+</p>
+
+<p>
+<q>I keep running into this term,</q>
+Larry complained. <q>What do you
+mean, social-label judgments, and
+how can they possibly louse up the
+country?</q>
+</p>
+
+<p>
+Sam said, <q rend='pre'>I was present a month or
+so ago when Voss gave an informal
+lecture to a group of twenty or so.
+Here's one of the examples he used.</q>
+</p>
+
+<p>
+<q rend='pre'>Everybody today wants to be rated
+on a (1) personal, or, (2) social-label
+basis, depending on which basis
+is to his greatest advantage. The Negro
+who is a no-good, lazy, obnoxious
+person demands to be accepted because
+Negroes should not be discriminated
+against. The highly competent,
+hard working, honest and productive
+Negro wants to be accepted because
+he is hard-working, honest and productive&mdash;and
+should be so accepted.</q>
+</p>
+
+<p>
+<q>See what I mean? This social-label
+system is intended to relieve the
+individual of the necessity of judging,
+and the consequences of being
+judged. If you have poor judgment,
+and are forced to rely on your own
+judgment, you're almost sure to go
+under. So persons of poor judgment
+support our social-label system. If
+you're a louse, and are correctly
+judged as being a louse, you'd prefer
+that the social dictum <q>Human beings
+are never lice</q> should apply.</q>
+</p>
+
+<p>
+Larry said, <q>What in the devil's
+this got to do with the race between
+this country and the Russkies?</q>
+</p>
+
+<p>
+Sam said patiently, <q rend='pre'>Voss and the
+Movement he leads contend that a
+social-label system winds up with incompetents
+running the country in all
+fields. Often incompetent scientists
+are in charge of our research; incompetent
+doctors, in charge of our
+health; incompetent politicians run
+our government; incompetent teachers,
+laden with social-labels, teach our
+youth. Our young people are going to
+college to secure a degree, not an
+education. It's the label that counts,
+not the reality.</q>
+</p>
+
+<p>
+<q rend='pre'>Voss contends that it's getting
+progressively worse. That we're sinking
+into an equivalent of a ritual-taboo,
+tribal social-like situation. This
+is the system the low-level human being
+wants, yearns for and seeks. A
+situation in which no one's judgment
+is of any use. Then <emph>his</emph> lack of judgment
+is no handicap.</q>
+</p>
+
+<p>
+<q>According to members of the
+Movement, today the tribesman type
+<pb n='041'/><anchor id='Pg041'/>
+is seeking to reduce civilization back
+to ritual-taboo tribalism wherein no
+one man's judgment is of any value.
+The union wants advancement based
+on seniority, not on ability and judgment.
+The persons with whom you
+associate socially judge you by the
+amount of money you possess, the
+family from which you come, the degrees
+you hold, by social-labels&mdash;not
+by your proven abilities. Down with
+judgment! is the cry.</q>
+</p>
+
+<p>
+<q>It sounds awfully weird to me,</q>
+Larry grumbled in deprecation.
+</p>
+
+<p>
+Sam shrugged. <q>There's a lot of
+sense in it. What the Movement
+wants is to develop a socio-economic
+system in which judgment produces
+a maximum advantage.</q>
+</p>
+
+<p>
+Larry said, <q>What gets me is that
+you talk as though half the country
+was all caught up in debating this
+Movement. But I haven't even heard
+of it, neither has my department
+chief, nor any of my colleagues, so far
+as I know. Why isn't anything about
+it in the papers or on the TriD?</q>
+</p>
+
+<p>
+Sam said mildly, <q>As a matter of
+fact, I took in Mort Lenny's show the
+other night and he made some cracks
+about it. But it's not the sort of thing
+that's even meant to become popular
+with the man in the street. To put it
+bluntly, Voss and his people aren't
+particularly keen about the present
+conception of the democratic ideal.
+According to him, true democracy
+can only be exercised by peers and
+society today isn't composed of peers.
+If you have one hundred people,
+twenty of them competent, intelligent
+persons, eighty of them untrained,
+incompetent and less than intelligent,
+then it's ridiculous to have
+the eighty dictate to the twenty.</q>
+</p>
+
+<p>
+Larry looked accusingly at his long-time
+friend. <q>You know, Sam, you
+sound as though you approve of all
+this.</q>
+</p>
+
+<p>
+Sam said patiently, <q>I listen to it
+all, Larry my boy. I think Voss makes
+a lot of sense. There's only one drawback.</q>
+</p>
+
+<p>
+<q>And that is?</q>
+</p>
+
+<p>
+<q>How's he going to put it over?
+This social-label system the Movement
+complains about was bad
+enough ten years ago. But look how
+much worse it is today. It's a progressive
+thing. And, remember, it's to the
+benefit of the incompetent. Since the
+incompetent predominates, you're going
+to have a hard time starting up a
+system based on judgment and ability.</q>
+</p>
+
+<p>
+Larry thought about it for a moment.
+</p>
+
+<p>
+Sam said, <q>Look, I'm working, Larry.
+Was there anything else?</q>
+</p>
+
+<p>
+Larry said, <q>You wouldn't know
+where I could get hold of Voss,
+would you?</q>
+</p>
+
+<p>
+<q>At his home, I imagine, or at the
+University.</q>
+</p>
+
+<p>
+<q>He's disappeared. We're looking
+for him.</q>
+</p>
+
+<p>
+Sam laughed. <q>Gone underground,
+eh? The old boy is getting romantic.</q>
+</p>
+
+<p>
+<q>Does he have any particular
+friends who might be putting him
+up?</q>
+</p>
+
+<p>
+Sam thought about it. <q>There's
+Frank Nostrand. You know, that rocket
+<pb n='042'/><anchor id='Pg042'/>
+expert who was fired when he got
+in the big hassle with Senator McCord.</q>
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+When Sam Sokolski had flicked off,
+Larry stared at the vacant phone
+screen for a long moment, assimilating
+what the other had told him. He
+was astonished that an organization
+such as the Movement could have
+spread to the extent it evidently had
+through the country's intellectual circles,
+through the scientifically and
+technically trained, without his department
+being keenly aware of it.
+</p>
+
+<p rend='text-align: center'>
+  <figure url='images/p42.png' rend='width: 60%'>
+    <figDesc>Illustration.</figDesc>
+  </figure>
+</p>
+
+<p>
+One result, he decided glumly, of
+labeling everything contrary to the
+<hi rend='italic'>status quo</hi> as <emph>weird</emph> and dismissing it
+with contempt. Admittedly, that
+would have been his own reaction
+only a week ago.
+</p>
+
+<p>
+Suppose that he'd been at a cocktail
+party, and had drifted up to a group
+who were arguing about social-label
+judgments and the need to develop a
+<emph>movement</emph> to change society's use of
+them. The discussion would have
+gone in one ear, out the other, and he
+would have muttered inwardly,
+<q>Weirds,</q> and have drifted on to get
+himself another vodka martini.
+</p>
+
+<p>
+Larry snorted and dialed the Department
+of Records. He'd never
+heard of Frank Nostrand before, so he
+got Information.
+</p>
+
+<p>
+The bright young thing who answered
+seemed to have a harried expression
+untypical of Records employees.
+Larry said to her, <q>I'd like the
+brief on a Mr. Frank Nostrand who is
+evidently an expert on rockets. The
+only other thing I know about him is
+that he recently got in the news as the
+result of a controversy with Senator
+McCord.</q>
+</p>
+
+<p>
+<q>Just a moment, sir,</q> the bright
+young thing said.
+</p>
+
+<p>
+She touched buttons and reached
+into a delivery chute. When her eyes
+came up to meet his again, they were
+more than ever harried. They were
+absolutely confused.
+</p>
+
+<p>
+<q>Mr. Franklin Howard Nostrand,</q>
+she said, <q>currently employed by
+Madison Air as a rocket research technician.</q>
+</p>
+
+<p>
+<q>That must be him,</q> Larry said.
+<q>I'm in a hurry, Miss. What's his
+background?</q>
+</p>
+
+<p>
+Her eyes rounded. <q>It says ... it
+says he's an Archbishop of the Anglican
+Church.</q>
+</p>
+
+<p>
+Larry Woolford looked at her.
+</p>
+
+<p>
+She looked back, pleadingly.
+</p>
+
+<p>
+Larry scowled and said, <q>His university
+degrees, please.</q>
+</p>
+
+<p>
+Her eyes darted to the report and
+she swallowed. <q>A bachelor in Home
+Economics, sir.</q>
+</p>
+
+<p>
+<q>Look here, Miss, how could a
+Home Economics degree result in his
+becoming either an Archbishop or a
+rocket technician?</q>
+</p>
+
+<p>
+<q>I'm sorry, sir. That's what it says.</q>
+</p>
+
+<p>
+Larry was fuming but there was no
+point in taking it out on this junior
+employee of the Department of Records.
+He snapped, <q>Just give me his
+address, please.</q>
+</p>
+
+<p>
+She said agonizingly, <q>Sir, it says,
+Lhasa, Tibet.</q>
+</p>
+
+<p>
+A red light flicked at the side of
+his phone and he said to her, <q>I'll call
+you back. I'm getting a priority call.</q>
+</p>
+
+<pb n='043'/><anchor id='Pg043'/>
+
+<p>
+He flicked her off, and flicked the
+incoming call in. It was LaVerne Polk.
+She seemed to be on the harried side,
+too.
+</p>
+
+<p>
+<q>Larry,</q> she said, <q>you better get
+over here right away.</q>
+</p>
+
+<p>
+<q>What's up, LaVerne?</q>
+</p>
+
+<p>
+<q>This Movement,</q> she said, <q>it
+seems to have started moving! The
+Boss says to get over here soonest.</q>
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+The top of his car was retracted.
+Larry Woolford slammed down the
+walk of his auto-bungalow and vaulted
+over the side and into the seat. He
+banged the start button, dropped the
+lift lever, depressed the thrust pedal
+and took off at maximum acceleration.
+</p>
+
+<p>
+He took the police level for maximum
+speed and was in downtown
+Greater Washington in flat minutes.
+</p>
+
+<p>
+So the Movement had started moving.
+That could mean almost anything.
+It was just enough to keep him
+stewing until he got to the Boss and
+found out what was going on.
+</p>
+
+<p>
+He turned his car over to a parker
+and made his way to the entrance
+utilized by the second-grade department
+officials.  In another year, or at
+most two, he told himself all over
+again, he'd be using that other door.
+He had an intuitive feeling that if he
+licked this current assignment it'd be
+the opening wedge he needed and
+he'd wind up in a status bracket
+unique for his age.
+</p>
+
+<p>
+LaVerne looked up when he hurried
+into her anteroom. She evidently
+had two or three calls going on at
+once, taking orders from one phone,
+giving them in another. Something
+was obviously erupting. She didn't
+speak to him, merely nodded her head
+at the inner office.
+</p>
+
+<p>
+In the Boss' office were six or eight
+others besides Larry's superior. Their
+expressions and attitudes ran from
+bewilderment to shock. They weren't
+the men you'd expect to have such reactions.
+At least not those that Larry
+Woolford recognized. Three of them,
+Ben Ruthenberg, Bill Fraina and
+Dave Moskowitz were F.B.I. men
+with whom Larry had worked on occasion.
+One of the others he recognized
+as being a supervisor with the
+C.I.A. Walt Foster, Larry's rival in the
+Boss' affections, was also present.
+</p>
+
+<p>
+The Boss growled at him, <q>Where
+in the heavens have you been, Lawrence?</q>
+</p>
+
+<p>
+<q>Following our leads on this so-called
+Movement, sir,</q> Larry told him.
+<q>What's going on?</q>
+</p>
+
+<p>
+Ruthenberg, the Department of
+Justice man, grunted sour amusement.
+<q>So-called Movement, isn't exactly
+the correct phrase. It's a Movement,
+all right.</q>
+</p>
+
+<p>
+The Boss said, <q>Please dial Records
+and get your dossier, Lawrence. That'll
+be the quickest way to bring you
+up on developments.</q>
+</p>
+
+<p>
+Mystified, but already with a growing
+premonition, Larry dialed Records.
+Knowing his own classification
+code, he had no need of Information
+this time. He got the hundred-word
+brief and stared at it as it filled the
+screen. The only items really correct
+were his name and present occupation.
+Otherwise his education was
+<pb n='044'/><anchor id='Pg044'/>
+listed as grammar school only. His
+military career had him ending the
+war as a General of the Armies, and
+his criminal career record included
+four years on Alcatraz for molesting
+small children.
+</p>
+
+<p>
+Blankly, he faded the brief and
+dialed his full dossier.  It failed to
+duplicate the brief, but that was no
+advantage. This time he had an M.D.
+degree from Johns Hopkins, but his
+military career listed him as a dishonorable
+discharge from the navy where
+he'd served in the steward department.
+His criminal record was happily
+nil, but his religion was listed as
+Holy Roller. Political affiliations had
+him down as a  member of the Dixiecrats.
+</p>
+
+<p>
+The others were looking at him,
+most of them blankly, although there
+were grins on the faces of Moskowitz
+and the C.I.A. man.
+</p>
+
+<p>
+Moskowitz said, <q>With a name
+like mine, yet, they have me a Bishop
+of the Orthodox Greek Catholic
+Church.</q>
+</p>
+
+<p>
+Larry said, <q>What's it all about?</q>
+</p>
+
+<p>
+Ruthenberg said unhappily, <q>It
+started early this morning. We don't
+know exactly when as yet.</q> Which
+didn't seem to answer the question.
+</p>
+
+<p>
+Larry said, <q>I don't get it. Obviously,
+the Records department is fouled
+up in some manner. How, and why?</q>
+</p>
+
+<p>
+<q>How, we know,</q> the Boss rumbled
+disgustedly. <q>Why is another matter.
+You've spent more time than anyone
+else on this assignment, Lawrence.
+Perhaps you can tell us.</q> He grabbed
+up a pipe from his desk, tried to light
+it noisily, noticed finally that it held
+no tobacco and threw it to the desk
+again. <q>Evidently, a large group of
+these Movement individuals either already
+worked in Records or wriggled
+themselves into key positions in the
+technical end of the department.
+Now they've sabotaged the files.</q>
+</p>
+
+<p>
+<q>We've caught most of them already,</q>
+one of the F.B.I. men growled,
+<q>but damn little good that does us at
+this point.</q>
+</p>
+
+<p>
+The C.I.A. supervisor made a gesture
+indicating that he gave it all up.
+<q>Not only here but in Chicago and
+San Francisco as well. All at once.
+Evidently perfectly rehearsed. Personnel
+records from coast to coast are
+bollixed. Why?</q>
+</p>
+
+<p>
+Larry said slowly, <q>I think I know
+that now. Yesterday, I wouldn't have
+but I've been picking up odds and
+ends.</q>
+</p>
+
+<p>
+They all looked at him.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+Larry sat down and ran a hand back
+through his hair. <q>The general idea is
+to change the country's reliance on
+social-label judgments.</q>
+</p>
+
+<p>
+<q>On <emph>what</emph>,</q> the Boss barked.
+</p>
+
+<p>
+<q>On one person judging another
+according to social-labels. Voss and
+the others&mdash;</q>
+</p>
+
+<p>
+<q>Who did you say?</q> Ruthenberg
+snapped.
+</p>
+
+<p>
+<q>Voss. Professor Peter Voss from
+the University over in Baltimore section.
+He's the ring leader.</q>
+</p>
+
+<p>
+Ruthenberg snapped to Fraina,
+<q>Get on the phone and send out a
+pick-up order for him.</q>
+</p>
+
+<p>
+Fraina was on his feet. <q>What
+charge, Ben?</q>
+</p>
+
+<pb n='045'/><anchor id='Pg045'/>
+
+<p>
+Ben Ruthenberg snorted. <q>Rape,
+or something. Get moving, we'll figure
+out a charge later. The guy's a
+fruitcake.</q>
+</p>
+
+<p>
+Larry said wearily, <q>He's evidently
+gone into hiding. I've been trying to
+locate him. He managed to slip me
+some knockout drops and got away
+yesterday.</q>
+</p>
+
+<p>
+The Boss looked at him in disgust.
+</p>
+
+<p>
+Ruthenberg said evenly, <q>We've
+had men go into hiding before. Get
+going, Fraina.</q>
+</p>
+
+<p>
+Fraina left the office and the others
+looked back to Larry.
+</p>
+
+<p>
+The Boss said, <q>About this social-label
+nonsense&mdash;</q>
+</p>
+
+<p>
+Larry said, <q>They think the country
+is going to pot because of it. People
+hold high office or places of responsibility
+not because of superior intelligence,
+or even acquired skill, but because
+of the social-labels they've accumulated,
+and these can be based on
+something as flimsy&mdash;from the Movement's
+viewpoint&mdash;as who your
+grandparents were, what school you
+attended, how much seniority you
+have on the job, what part of town
+you live in, or what tailor cuts your
+clothes.</q>
+</p>
+
+<p>
+Their expressions ran from scowls
+and frowns to complete puzzlement.
+</p>
+
+<p>
+Walt Foster grumbled, <q>What's all
+this got to do with sabotaging the
+country's Records tapes?</q>
+</p>
+
+<p>
+Larry shrugged. <q>I don't have the
+complete picture, but one thing is
+sure. It's going to be harder for a
+while to base your opinions on a
+quick hundred-word brief on a man.
+Yesterday, an employer, considering
+hiring somebody, could dial the man's
+dossier, check it, and form his opinions
+by the status labels the would-be
+employee could produce. Today, he's
+damn well going to have to exercise
+his own judgment.</q>
+</p>
+
+<p>
+LaVerne's face lit up the screen on
+the Boss' desk and she said, <q>Those
+two members of the Movement who
+were picked up in Alexandria are
+here, sir.</q>
+</p>
+
+<p>
+<q>Send them in,</q> the Boss rumbled.
+He looked at Larry. <q>The F.B.I. managed
+to arrest almost everyone directly
+involved in the sabotage.</q>
+</p>
+
+<p>
+The two prisoners seemed more
+amused than otherwise. They were
+young men, in their early thirties&mdash;well
+dressed and obviously intelligent.
+The Boss had them seated side
+by side and glared at them for a long
+moment before speaking. Larry and
+the others took chairs in various parts
+of the room and added their own
+stares to the barrage.
+</p>
+
+<p>
+The Boss said, <q>Your situation is
+an unhappy one, gentlemen.</q>
+</p>
+
+<p>
+One of the two shrugged.
+</p>
+
+<p>
+The Boss said, <q>You can, ah, hedge
+your bets, by co-operating with us. It
+might make the difference between a
+year or two in prison&mdash;and life.</q>
+</p>
+
+<p>
+One of them grinned and then
+yawned. <q>I doubt it,</q> he said.
+</p>
+
+<p>
+The Boss tried a slightly different
+tack. <q>You have no reason to maintain
+a feeling of obligation to Voss
+and the others. You have obviously
+been abandoned. Had they any feeling
+for you there would have been
+more efficacious arrangements for
+your escape.</q>
+</p>
+
+<pb n='046'/><anchor id='Pg046'/>
+
+<p>
+The more articulate of the two
+shrugged again. <q>We were expendable,</q>
+he said. <q>However, it won't be
+long before we're free again.</q>
+</p>
+
+<p>
+<q>You think so?</q> Ruthenberg
+grunted.
+</p>
+
+<p>
+The revolutionist looked at him.
+<q>Yes, I do,</q> he said. <q>Six months from
+now and we'll be heroes since by that
+time the Movement will have been a
+success.</q>
+</p>
+
+<p>
+The Boss snorted. <q>Just because
+you deranged the Records? Why
+that's but temporary.</q>
+</p>
+
+<p>
+<q>Not so temporary as you think,</q>
+the technician replied. <q>This country
+has allowed itself to get deeply
+enmeshed in punch-card and tape records.
+Oh, it made sense enough.
+With the population we have, and the
+endless files that result from our
+ultra-complicated society, it was simply
+a matter finally of developing a
+standardized system of records for the
+nation as a whole. Now, for all practical
+purposes, <emph>all</emph> of our records these
+days are kept with the Department of
+Records, confidential as well as public
+records. Why should a university,
+for instance, keep literally tons of
+files, with all the expense and space
+and time involved, when it can merely
+file the same records with the governmental
+department and have them
+safe and easily available at any time?
+Now, the Movement has completely
+and irrevocably destroyed almost all
+files that deal with the social-labels to
+which we object. An excellent first
+step, in forcing our country back into
+judgment based on ability and intelligence.</q>
+</p>
+
+<p>
+<q>First step!</q> Larry blurted.
+</p>
+
+<p>
+The two prisoners looked at him.
+<q>That's right,</q> the quieter of the two
+said. <q>This is just the first step.</q>
+</p>
+
+<p>
+<q>Don't kid yourselves,</q> Ben Ruthenberg
+snapped at them. <q>It's also the
+last!</q>
+</p>
+
+<p>
+The two members of the Movement
+grinned at him.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+When the others had gone, the
+Boss looked at Larry Woolford. He
+said sourly, <q>When this department
+was being formed, I doubt anyone
+had in mind this particular type of
+subversion, Lawrence.</q>
+</p>
+
+<p>
+Larry grunted. <q>Give me a good
+old-fashioned Commie, any time.
+Look, sir, what are the Department of
+Justice boys going to do with those
+prisoners?</q>
+</p>
+
+<p>
+<q>Hold them on any of various
+charges. We've conflicted with the
+F.B.I. in the past on overlapping
+jurisdiction, but thank heavens for
+them now. Their manpower is needed.</q>
+</p>
+
+<p>
+Larry leaned forward. <q>Sir, we
+ought to take all members of the
+Movement we've already arrested, feed
+them a dose of Scop-Serum, and
+pressure them to open up on the organization's
+operations.</q>
+</p>
+
+<p>
+His superior looked at him, waiting
+for him to continue.
+</p>
+
+<p>
+Larry said urgently, <q>Those two we
+just had in here thought the whole
+thing was a big joke. The first step,
+they called it. Sir, there's something
+considerably bigger than this cooking.
+Uncle Sam might pride himself
+on the personal liberties guaranteed
+<pb n='047'/><anchor id='Pg047'/>
+by this country, but unless we break
+this organization, and do it fast,
+there's going to be trouble that will
+make this fouling of the records look
+like the minor matter those two jokers
+seemed to think it.</q>
+</p>
+
+<p>
+The Boss thought about that. He
+said slowly, <q>Lawrence, the Supreme
+Court ruled against the use of Scop-Serum.
+Not that it is over efficient,
+anyway. Largely, these so-called truth
+serums don't accomplish much more
+than to lower resistance, slacken natural
+inhibitions, weaken the will.</q>
+</p>
+
+<p>
+<q>Sure,</q> Larry said. <q>But give a man
+a good dose of Scop-Serum and he'd
+betray his own mother. Not because
+he's helpless to tell a lie, but because
+under the influence of the drug he
+figures it just isn't important enough
+to bother about. Sir, Supreme Court
+or not, I think those two ought to be
+given Scop-Serum along with all other
+Movement members we've picked
+up.</q>
+</p>
+
+<p>
+The Boss was shaking his head.
+<q>Lawrence, these men are not wide-eyed
+radicals picked up in a street
+demonstration. They're highly respected
+members of our society.
+They're educators, scientists, engineers,
+technicians. Anything done to
+them is going to make headlines.
+Those that were actually involved in
+the sabotage will have criminal
+charges brought against them, but
+they're going to get a considerable
+amount of publicity, and we're going
+to be in no position to alienate any of
+their constitutional rights.</q>
+</p>
+
+<p>
+Larry stood up, approached his
+chief's desk and leaned over it urgently.
+<q>Sir, that's fine, but we've got
+to move and move fast. Something's
+up and we don't even know what!
+Take that counterfeit money. From
+Susan Self's description, there's actually
+billions of dollars worth of it.</q>
+</p>
+
+<p>
+<q>Oh, come now, Lawrence. The
+child exaggerated. Besides, that's a
+problem for Steven Hackett and the
+Secret Service, we have enough on
+our hands as it is. Forget about the
+counterfeit, Lawrence. I think I shall
+put you in complete control of field
+work on this, to co-operate in liaison
+with Ben Ruthenberg and the F.B.I.
+So far as we're concerned, the counterfeit
+angle belongs to Secret Service,
+we're working on subversion,
+and until the Civil Liberties Union or
+whoever else proves otherwise, we'll
+consider this Movement an organization
+attempting to subvert the country
+by illegal means.</q>
+</p>
+
+<p>
+Larry Woolford made a hard decision
+quickly. He was shaking his
+head. <q>Sir, I'd rather you gave the administrative
+end to someone else and
+let me continue in the field. I've got
+some leads&mdash;I think. If I get bogged
+down in interdepartmental red tape,
+and in paper work here at headquarters,
+I'll never get to the heart of this
+and I'm laying bets that we either
+crack this within days or there are going
+to be some awfully big changes
+in this country.</q>
+</p>
+
+<p>
+The Boss glared at him. <q>You
+mean you're refusing this assignment,
+Woolford. Confound it, don't you
+realize it's a promotion?</q>
+</p>
+
+<p>
+Larry was worriedly dogged. <q>Sir,
+I'd rather stay in the field.</q>
+</p>
+
+<pb n='048'/><anchor id='Pg048'/>
+
+<p>
+<q>Very well,</q> the other snapped disgustedly,
+<q>I hope you deliver some
+results, Woolford, otherwise I am
+afraid I won't feel particularly happy
+about your somewhat cavalier rejection
+of this opportunity.</q> He flicked
+on the phone and snapped to LaVerne
+Polk, <q>Miss Polk, locate Walter
+Foster for me. He is to take over our
+end of this Movement matter.</q>
+</p>
+
+<p>
+LaVerne said, <q>Yes, sir,</q> and her
+face was gone.
+</p>
+
+<p>
+The Boss looked up, still scowling.
+<q>What are you waiting for, Woolford?</q>
+</p>
+
+<p>
+<q>Yes, sir,</q> Larry said. It was just
+coming home to him now, what he'd
+done. There possibly went his yearned
+for promotion in the department.
+There went his chance of an upgrading
+in status. And Walt Foster, of all
+people, in his place.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+At LaVerne's desk, Larry stopped
+off long enough to say, <q>Did you ever
+assign that secretary to me?</q>
+</p>
+
+<p>
+LaVerne shook her head at him.
+<q>She's come and gone, Larry. She sat
+around for a couple of days, after seeing
+you not even once, and then I
+gave her another assignment.</q>
+</p>
+
+<p>
+<q>Well, bring her back again, will
+you? I want her to do up briefs for
+me on all the information we accumulate
+on the Movement. It'll be coming
+in from all sides now. From the
+Press, from those members we've arrested,
+from our F.B.I. pals, now that
+they're interested, and so forth.</q>
+</p>
+
+<p>
+<q>I'll give you Irene Day,</q> LaVerne
+said. <q>Where are you off to
+now, Larry?</q>
+</p>
+
+<p>
+<q>Probably a wild goose chase,</q> Larry
+growled. <q>Which reminds me. Do
+me a favor, LaVerne. Call Personal
+Service and find out where Frank
+Nostrand is. He's some kind of rocket
+technician at Madison Air Laboratories.
+I'll be in my office.</q>
+</p>
+
+<p>
+<q>Frank Nostrand,</q> LaVerne said
+briskly. <q>Will do, Larry.</q>
+</p>
+
+<p>
+Back in his own cubicle, Larry
+stood for a moment in thought. He
+was increasingly aware of the uncomfortable
+feeling that time was running
+out on them. That things were
+coming to a dangerous head.
+</p>
+
+<p>
+He stared down at the dozen or
+more books and pamphlets that his
+never seen secretary had heaped up
+for him. Well, he certainly didn't have
+time for them now.
+</p>
+
+<p>
+He sat down at the desk and dialed
+an inter-office number.
+</p>
+
+<p>
+The harassed looking face of Walter
+Foster faded in. On seeing Larry
+Woolford he growled accusingly, <q>My
+pal. You've let them dump this
+whole thing into my lap.</q>
+</p>
+
+<p>
+Larry grinned at him. <q>Better you
+than me, old buddy. Besides, it's a
+promotion. Pull this off and you'll be
+the Boss' right-hand man.</q>
+</p>
+
+<p>
+<q>That's a laugh,</q> Foster said. <q>It's a
+madhouse. This Movement gang is
+as weird as they come.</q>
+</p>
+
+<p>
+<q>I bleed for you,</q> Larry said.
+<q>However, here's a tip. Frol Eivazov,
+of the <hi rend='italic'>Chrezvychainaya Komissiya</hi> is
+somewhere in the country.</q>
+</p>
+
+<p>
+<q>Frol Eivazov!</q> Foster blurted.
+<q>What've the Commies got to do with
+this? Is this something the Boss
+knows about?</q>
+</p>
+
+<pb n='049'/><anchor id='Pg049'/>
+
+<p>
+<q>Haven't had time to go into it
+with him,</q> Larry said. <q>However, it
+seems that friend Frol is here to find
+out what the Movement is all about.
+Evidently the big boys in Peking
+and Moscow are nervous about any
+changes that might take place over
+here. I suggest you have him picked
+up, Walt.</q>
+</p>
+
+<p rend='text-align: center'>
+  <figure url='images/p49.png' rend='width: 30%'>
+    <figDesc>Illustration.</figDesc>
+  </figure>
+</p>
+
+<p>
+Walt Foster said, <q>O.K. I'll put
+some people on it. Maybe the F.B.I.
+can help.</q>
+</p>
+
+<p>
+Larry flicked off as he saw the red
+priority light on his phone shining.
+He pushed it and LaVerne's face
+faded in.
+</p>
+
+<p>
+She said, <q>This Franklin Nostrand
+you wanted to know about. He's evidently
+working at the laboratories
+over in Newport News, Larry. He'll
+be on the job until five this afternoon.</q>
+</p>
+
+<p>
+<q>Fine,</q> he said. Larry grinned at
+her. <q>When are we going to have
+that date, LaVerne?</q>
+</p>
+
+<p>
+She made a face. <q>Some day when
+the program involves having fun instead
+of parading around in the right
+places, driving the right model car,
+dressed in exactly the right clothes,
+and above all associating with the
+right people.</q>
+</p>
+
+<p>
+It was his turn to grimace. <q>I'm beginning
+to think you ought to sign up
+with Voss and this Movement of his.
+You'd be right at home with his
+weirds.</q>
+</p>
+
+<p>
+She stuck out her tongue at him,
+and flicked off.
+</p>
+
+<p>
+He looked at the empty screen and
+chuckled. He had half a mind to get a
+record of their conversation, strip out
+<pb n='050'/><anchor id='Pg050'/>
+just the section where she'd stuck out
+her tongue, and then play it back to
+her. She'd be taken aback by being
+confronted by her own image making
+faces at her.
+</p>
+
+<p>
+As he made his way to the parking
+lot for his car, something in their
+conversation nagged at him, but he
+couldn't put his finger on it. He considered
+the girl, all over again. She
+had almost all the qualities he looked
+for. She was attractive, without being
+overly so. He disliked women out of
+the ordinarily beautiful, it became too
+much to live up to. She was sharp,
+but not objectionably so. Not to the
+point of giving you an inferiority
+complex.
+</p>
+
+<p>
+But, Holy Smokes, she'd never do
+as a career man's wife. He could just
+see the Boss' ultraconservative better
+half inviting them to dinner. It
+would happen exactly once, never
+again.
+</p>
+
+<p>
+He obtained his car, lifted it to one
+of the higher levels and headed for
+Newport News. It was a half-hour
+trip and he wasn't particularly expectant
+of results. The tip Sam Sokolski
+had given him, wasn't much to
+go by. Evidently, Frank Nostrand was
+a friend of the Professor's but that
+didn't necessarily mean he was connected
+with the movement, or that he
+knew Voss' whereabouts.
+</p>
+
+<p>
+He might have saved himself the
+trip.
+</p>
+
+<p>
+The bird had flown again. Not
+only was Frank Nostrand not at the
+Madison Air Laboratories, but he
+wasn't at home either. Larry Woolford,
+mindful of his departmental
+chief's words on the prestige these
+people carried, took a full hour in acquiring
+a search warrant before breaking
+into the Nostrand home.
+</p>
+
+<p>
+Nostrand was supposedly a bachelor,
+but the auto-bungalow, similar to
+Larry Woolford's own, showed signs
+of double occupancy, and there was
+little indication that the guest had
+been a woman.
+</p>
+
+<p>
+Disgruntled, Larry Woolford dialed
+the offices, asked for Walt Foster. It
+took nearly ten minutes before his
+colleague faded in.
+</p>
+
+<p>
+<q>I'm up to my eyebrows, Larry.
+What'd you want?</q>
+</p>
+
+<p>
+Larry gave him Frank Nostrand's
+address. <q>This guy's disappeared,
+Walt.</q>
+</p>
+
+<p>
+<q>So?</q>
+</p>
+
+<p>
+<q>He was a close friend of Professor
+Voss. I got a warrant to search his
+house. It shows signs that he had a
+guest. Possibly it was the Professor.
+Do you want to get some of the boys
+down here to go through the place?
+Possibly there's some clue to where
+they took off for. The Professor's on
+the run and he's no professional at
+this. If we can pick <emph>him</emph> up, I've got a
+sneaking suspicion we'll have the so-called
+Movement licked.</q>
+</p>
+
+<p>
+Walt Foster slapped a hand to his
+face in anguish. <q>You knew where
+the Professor was hiding, and you
+tried to pick him up on your own and
+let him get away. Why didn't you
+discuss this with either the Boss or
+me? I'm in charge of this operation!
+I would have had a dozen men down
+there. You've fouled this up!</q>
+</p>
+
+<p>
+Larry stared at him. Already Walt
+<pb n='051'/><anchor id='Pg051'/>
+Foster was making sounds like an
+enraged superior.
+</p>
+
+<p>
+He said mildly, <q>Sorry, Walt. I
+came down here on a very meager
+tip. I didn't really expect it to pan
+out.</q>
+</p>
+
+<p>
+<q>Well, in the future, clear with
+either me or the Boss before running
+off half cocked into something, Woolford.
+Yesterday, you had this whole
+assignment on your own. Today, it's
+no longer a minor matter. Our department
+has fifty people on it. The
+F.B.I. must have five times as many
+and that's not even counting the Secret
+Service's interest. It's no longer
+your individual baby.</q>
+</p>
+
+<p>
+<q>Sorry,</q> Larry repeated mildly.
+Then, <q>I don't imagine you've got
+hold of Frol Eivazov yet?</q>
+</p>
+
+<p>
+The other was disgusted. <q>You
+think we're magicians? We just put
+out the call for him a few hours ago.
+He's no amateur. If he doesn't want
+to be picked up, he'll go to ground
+and we'll have our work cut out for us
+finding him. I can't see that it's particularly
+important anyway.</q>
+</p>
+
+<p>
+<q>Maybe you're right,</q> Larry said.
+<q>But you never know. He might
+know things we don't. See you later.</q>
+</p>
+
+<p>
+Walt Foster stared at him for a
+moment as though about to say something,
+but then tightened his lips and
+faded off.
+</p>
+
+<p>
+Larry looked at the phone screen
+for a moment. <q>Did that phony expect
+me to call him <emph>sir</emph>,</q> he muttered.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+The next two days dissolved into
+routine.
+</p>
+
+<p>
+Frustrated, Larry Woolford spent
+most of his time in his office digesting
+developments, trying to find a new
+line of attack.
+</p>
+
+<p>
+For want of something else, he put
+his new secretary, a brightly efficient
+girl, as style and status conscious as
+LaVerne Polk wasn't, to work typing
+up the tapes he'd had cut on Susan
+Self and the various phone calls he'd
+had with Hans Distelmayer and Sam
+Sokolski. From memory, he dictated
+to her his conversation with Professor
+Peter Voss.
+</p>
+
+<p>
+He carefully read the typed sheets
+over and over again. He continually
+had the feeling in this case that there
+were loose ends dangling around.
+Several important points he should be
+able to put his finger upon.
+</p>
+
+<p>
+On the morning of the third day he
+dialed Steve Hackett and on seeing
+the other's worried, pug-ugly face
+fade in on the phone, decided that if
+nothing else the Movement was undermining
+the United States government
+by dispensing ulcers to its employees.
+</p>
+
+<p>
+Steve growled, <q>What is it Woolford?
+I'm as busy as a whirling dervish
+in a revolving door.</q>
+</p>
+
+<p>
+<q>This is just the glimmer of an
+idea, Steve. Look, remember that conversation
+with Susan, when she described
+her father taking her to
+headquarters?</q>
+</p>
+
+<p>
+<q>So?</q> Steve said impatiently.
+</p>
+
+<p>
+<q>Remember her description of
+headquarters?</q>
+</p>
+
+<p>
+<q>Go on,</q> Steve rapped.
+</p>
+
+<p>
+<q>What did it remind you of?</q>
+</p>
+
+<p>
+<q>What are you leading to?</q>
+</p>
+
+<pb n='052'/><anchor id='Pg052'/>
+
+<p>
+<q>This is just a hunch,</q> Larry persisted,
+<q>but the way she described the
+manner in which her father took her
+to headquarters suggests they're in
+the Greater Washington area.</q>
+</p>
+
+<p>
+Steve was staring at him disgustedly.
+How obvious could you get?
+</p>
+
+<p>
+Larry hurried on. <q>What's the biggest
+business in this area, Steve?</q>
+</p>
+
+<p>
+<q>Government.</q>
+</p>
+
+<p>
+<q>Right. And the way she described
+headquarters of the Movement, was
+rooms, after rooms, after rooms into
+which they'd stored the money.</q>
+</p>
+
+<p>
+<q>And?</q>
+</p>
+
+<p>
+Larry said urgently, <q>Steve, I think
+in some way the Movement has taken
+over some governmental buildings, or
+storage warehouse. Possibly some
+older buildings no longer in use. It
+would be a perfect hideout. Who
+would expect a subversive organization
+to be in governmental buildings?
+All they'd need would be a few
+officials here and there who were on
+their side and&mdash;</q>
+</p>
+
+<p>
+Steve said wearily, <q>You couldn't
+have thought of this two days ago.</q>
+</p>
+
+<p>
+Larry cut himself off sharply,
+<q>Eh?</q>
+</p>
+
+<p>
+Steve said, <q>We found their headquarters.
+One of their members
+cracked. Ben Ruthenberg of the
+F.B.I. found he had a morals rap
+against him some years ago and scared
+him into talking by threats of exposure.
+At any rate, you're right. They
+had established themselves in some
+government buildings going back to
+Spanish-American War days. We've
+arrested eight or ten officials that
+were involved.</q>
+</p>
+
+<p>
+<q>But the money?</q>
+</p>
+
+<p>
+<q>The money was gone,</q> Steve said
+bitterly. <q>But Susan was right. There
+had evidently been room after room
+of it, stacked to the ceiling. Literally
+billions of dollars. They'd moved out
+hurriedly, but they left kicking around
+enough loose hundreds, fifties, twenties,
+tens and fives to give us an idea.
+Look, Woolford, I thought you'd
+been pulled off this case and that
+Walt Foster was handling it.</q>
+</p>
+
+<p>
+Larry said sourly, <q>I'm beginning
+to think so, too. They're evidently not
+even bothering to let me know about
+developments like this. See you later,
+Steve.</q>
+</p>
+
+<p>
+The other's face faded off.
+</p>
+
+<p>
+Larry Woolford looked across the
+double desk at Irene Day. <q>Look,</q> he
+said, <q>when you're offered a promotion,
+take it. If you don't, someone
+else will and you'll be out in the
+cold.</q>
+</p>
+
+<p>
+Irene Day said brightly, <q>I've always
+know that, sir.</q>
+</p>
+
+<p>
+He looked at her. The typical eager
+beaver. Sharp as a whip. Bright as a
+button. <q>I'll bet you have,</q> he muttered.
+</p>
+
+<p>
+<q>I beg your pardon, Mr. Woolford?</q>
+</p>
+
+<p>
+The phone lit as LaVerne said,
+<q>The Boss wants to talk to you, Larry.</q>
+Her face faded and Larry's superior
+was scowling at him.
+</p>
+
+<p>
+He snapped, <q>Did you get anything
+on this medical records thing,
+Woolford?</q>
+</p>
+
+<p>
+<q>Medical records?</q> Larry said
+blankly.
+</p>
+
+<p>
+The Boss grunted in deprecation.
+<pb n='053'/><anchor id='Pg053'/>
+<q>No, I suppose you haven't. I wish
+you would snap into it, Woolford. I
+don't know what has happened to you
+of late. I used to think that you were
+a good field man.</q> He flicked off
+abruptly.
+</p>
+
+<p>
+Larry dialed LaVerne Polk. <q>What
+in the world was the Boss just talking
+about, LaVerne? About medical records?</q>
+</p>
+
+<p>
+LaVerne said, frowning, <q>Didn't
+you know? The Movement's been at
+it again. They've fouled up the records
+of the State Medical Licensing
+bureaus, at the same time sabotaging
+the remaining records of most, if not
+all, of the country's medical schools.
+They struck simultaneously, throughout
+the country.</q>
+</p>
+
+<p>
+He looked at her, expressionlessly.
+</p>
+
+<p>
+LaVerne said, <q>We've caught several
+hundred of those responsible. It's
+the same thing. Attack of the social-label.
+From now on, if a man tells you
+he's an Ear, Eye and Throat specialist,
+you'd better do some investigation
+before letting him amputate your
+tongue. You'd better use your judgment
+before letting <emph>any</emph> doctor you
+don't really know about, work on
+you. It's a madhouse, Larry.</q>
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+Larry Woolford, for long moments
+after LaVerne had broken the connection,
+stared unseeingly at his secretary
+across from him until she stirred.
+</p>
+
+<p>
+He brought his eyes back to the
+present. <q>Another preliminary move,
+not the important thing, yet. Not the
+big explosion they're figuring on.
+Where have they taken that money,
+and why?</q>
+</p>
+
+<p>
+Irene Day blinked at him. <q>I don't
+know, I'm sure, sir.</q>
+</p>
+
+<p>
+Larry said, <q>Get me Mr. Foster on
+the phone, Irene.</q>
+</p>
+
+<p>
+When Walt Foster's unhappy face
+faded in, Larry said, <q>Walt did you
+get Frol Eivazov?</q>
+</p>
+
+<p>
+<q>Eivazov?</q> the other said impatiently.
+<q>No. We haven't spent much
+effort on it. I think this hunch of
+yours is like the other ones you've
+been having lately, Woolford. Frol
+Eivazov was last reported by our operatives
+as being in North Korea.</q>
+</p>
+
+<p>
+<q>It wasn't a hunch,</q> Larry said
+tightly. <q>He's in this country on an
+assignment dealing with the Movement.</q>
+</p>
+
+<p>
+<q>Well, that's your opinion,</q> Foster
+said snappishly. <q>I'm busy, Woolford.
+See here, at present you're under
+my orders on this job. In the way
+of something to do, instead of sitting
+around in that office, why don't you
+follow up this Eivazov thing yourself?</q>
+He considered it a moment.
+<q>That's an order, Woolford. Even if
+you don't locate him, it'll keep you out
+of our hair.</q>
+</p>
+
+<p>
+After the other was gone, Larry
+Woolford leaned back in his chair,
+his face flushed as though the other
+had slapped it. In a way, he had.
+</p>
+
+<p>
+Larry said slowly, <q>Miss Day, dial
+me Hans Distelmayer. His offices are
+over in the Belmont Building.</q>
+</p>
+
+<p>
+As always, the screen remained
+blank as the German spy master
+spoke.
+</p>
+
+<p>
+Larry said, <q>Hans, I want to talk to
+Frol Eivazov.</q>
+</p>
+
+<p>
+<q>Ah?</q>
+</p>
+
+<pb n='054'/><anchor id='Pg054'/>
+
+<p>
+<q>I want to know where I can find
+him.</q>
+</p>
+
+<p>
+The German's voice was humorously
+gruff. <q>My friend, my friend.</q>
+</p>
+
+<p>
+Larry said impatiently, <q>I'm not interested
+in arresting him at this time.
+I want to talk to him.</q>
+</p>
+
+<p>
+The other said heavily. <q>This goes
+beyond favors, my friend. On the face
+of it, I am not in business for my
+health. And what you ask is dangerous
+from my viewpoint. You realize
+that upon occasion my organization
+does small tasks for the Soviets....</q>
+</p>
+
+<p>
+<q>Ha!</q> Larry said bitterly.
+</p>
+
+<p>
+<q>... And,</q> the German continued,
+unruffled, <q>it is hardly to my interest
+to gain the reputation of betraying
+my sometimes employers.
+Were you on an assignment in, say,
+Bulgaria or Hungary, would you
+expect me to betray you to the
+<hi rend='italic'>Chrezvychainaya Komissiya</hi>?</q>
+</p>
+
+<p>
+<q>Not unless somebody paid you
+enough to make it worth while,</q>
+Larry said dryly.
+</p>
+
+<p>
+<q>Exactly,</q> the espionage chief said.
+</p>
+
+<p>
+<q>Look,</q> Larry said. <q>Send your bill
+to this department, Hans. I've been
+given carte blanche on this matter
+and I want to talk to Frol. Now,
+where is he?</q>
+</p>
+
+<p>
+The German chuckled heavily.
+<q>At the Soviet Embassy.</q>
+</p>
+
+<p>
+<q>What! You mean they've got the
+gall to house their top spy right in&mdash;</q>
+</p>
+
+<p>
+Distelmayer interrupted him.
+<q>Friend Eivazov is currently accredited
+as a military attaché and quite
+correctly. He holds the rank of colonel,
+you know. He entered this country
+quite legally, the only precaution
+taken was to use his second name,
+Kliment, instead of Frol, on his papers.
+Evidently, your people passed
+him by without a second look. Ah, I
+understand he went to the trouble of
+making some minor changes in his
+facial appearance.</q>
+</p>
+
+<p>
+<q>We'll expect your bill, Distelmayer,</q>
+Larry said. <q>Good-by.</q>
+</p>
+
+<p>
+He got up and reached for his hat,
+saying to Irene Day, <q>I don't know
+how long I'll be gone.</q> He added,
+wryly, <q>If either Foster or the Boss
+try to get in touch with me, tell them
+I'm carrying out orders.</q>
+</p>
+
+<p>
+He drove over to the Soviet Embassy,
+parked his car directly before
+the building.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+The American plainclothesmen
+stationed near the entrance, gave him
+only a quick onceover as he passed.
+Inside the gates, the impassive Russian
+guards didn't bother to flicker an
+eyelid.
+</p>
+
+<p>
+At the reception desk in the immense
+entrada, he identified himself.
+<q>I'd like to see Colonel Frol Eivazov.</q>
+</p>
+
+<p>
+<q>I am afraid&mdash;</q> the clerk began
+stiffly.
+</p>
+
+<p>
+<q>I suppose you have him on the
+records as Kliment Eivazov.</q>
+</p>
+
+<p>
+The clerk had evidently touched a
+concealed button. A door opened and
+a junior embassy official approached
+them.
+</p>
+
+<p>
+Larry restated his desire. The other
+began to open his mouth in denial,
+then shrugged. <q>Just a moment,</q> he
+said.
+</p>
+
+<p>
+He was gone a full twenty minutes.
+<pb n='055'/><anchor id='Pg055'/>
+When he returned, he said
+briefly, <q>This way, please.</q>
+</p>
+
+<p>
+Frol Eivazov was in an inner office,
+in full uniform. He came to his
+feet when Larry Woolford entered
+and said to the clerk, <q>That will be
+all, Vova.</q> He was a tall man, as
+Slavs go, but heavy of build and
+heavy of face.
+</p>
+
+<p>
+He shook hands with Larry. <q>It's
+been a long time,</q> he said in perfect
+English. <q>That conference in Warsaw,
+wasn't it? Have a chair, Mr.
+Woolford.</q>
+</p>
+
+<p>
+Larry took the offered chair and
+said, <q>How in the world did you expect
+to get by with this nonsense?
+We'll have you declared <hi rend='italic'>persona non
+grata</hi> in a matter of hours.</q>
+</p>
+
+<p>
+<q>It's not important,</q> Eivazov
+shrugged. <q>I have found what I came
+to find. I was about to return to report
+any way.</q>
+</p>
+
+<p>
+<q>We won't do anything to hinder
+you, colonel,</q> Larry said dryly.
+</p>
+
+<p>
+Eivazov snapped his fingers. <q>It's
+all amusing,</q> he said. <q>In our country
+we would quickly deal with this
+Movement nonsense. You Americans
+with your pseudo-democracy, your
+labels without reality, your&mdash;</q>
+</p>
+
+<p>
+Larry said wearily, <q>Please, Frol, I
+promise not to convert you if you
+promise not to convert me. Needless
+to say, my department isn't happy
+about your presence in this country.
+You'll be watched from now on.
+We've been busy with other matters....</q>
+</p>
+
+<p>
+Here the Russian laughed.
+</p>
+
+<p>
+<q>... Or we'd already have flushed
+you.</q> He allowed his voice to go
+curious. <q>We've wondered about your
+interest in this phase of our internal
+affairs.</q>
+</p>
+
+<p>
+The Russian agent let his facade
+slip over farther, his heavy lips sneering.
+<q>We are interested in all phases
+of your antiquated socio-economic
+system, Mr. Woolford. In the present
+peaceful economic competition between
+East and West, we would simply
+<emph>loathe</emph> to see anything happen to
+your present culture.</q> He hesitated
+deliberately. <q>If you can call it a
+culture.</q>
+</p>
+
+<p>
+Larry said, unprovoked, <q>If I understand
+you correctly, you are not in
+favor of the changes the Movement
+advocates.</q>
+</p>
+
+<p>
+The Russian shrugged hugely. <q>I
+doubt if they are possible of achievement.
+The organization is a sloppy
+one. Revolutionary? Nonsense,</q> he
+scoffed. <q>They have no plans to
+change the government. No plans for
+overthrowing the regime. Ultimately,
+what this country needs is true
+Communism. This so-called Movement
+doesn't have that as its eventual
+goal. It is laughable.</q>
+</p>
+
+<p>
+Larry said, interestedly, <q>Then perhaps
+you'll tell me what little you've
+found out about the group.</q>
+</p>
+
+<p>
+<q>Why not?</q> The Russian pursed
+his lips. <q>They are composed of impractical
+idealists. Scientists, intellectuals,
+a few admitted scholars and
+even a few potential leaders. Their
+sabotage of your Department of Records
+was an amusing farce, but,
+frankly, I have been unable to discover
+the purpose of their interest in
+rockets. For a time I contemplated
+<pb n='056'/><anchor id='Pg056'/>
+the possibility that they had a scheme
+to develop a nuclear bomb, and to
+explode it over Greater Washington
+in the belief that in the resulting
+confusion they might seize power.
+But, on the face of it their membership
+is incapable of such an effort.</q>
+</p>
+
+<p>
+<q>Their interest in rockets?</q> Larry
+said softly.
+</p>
+
+<p>
+<q>Yes, as you've undoubtedly discovered,
+half the rocket technicians of
+your country seem to have joined
+with them. We got the tip through</q>&mdash;the
+Russian cleared his throat&mdash;<q>several
+of our converts who happen
+to be connected with your space
+efforts groups.</q>
+</p>
+
+<p>
+<q>Is that so?</q> Larry said. <q>I wondered
+what you thought about their
+interest in money.</q>
+</p>
+
+<p>
+It was the other's turn to look
+blank. <q>Money?</q> he said.
+</p>
+
+<p>
+<q>That's right. Large quantities of
+money.</q>
+</p>
+
+<p>
+The Russian said, frowning, <q>I suppose
+most citizens in your capitalist
+countries are interested largely in
+money. One of your basic failings.</q>
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+Driving back to the office, Larry
+Woolford let it pile up on him.
+</p>
+
+<p>
+Ernest Self had been a specialist in
+solid fuel for rockets. When Larry
+had questioned Professor Voss that
+worthy had particularly stressed his
+indignation at how Professor Goddard,
+the rocket pioneer, had been
+treated by his contemporaries. Franklin
+Nostrand had been employed as a
+technician on rocket research at Madison
+Air Laboratories. It was too darn
+much for coincidence.
+</p>
+
+<p>
+And now something else that had
+been nagging away at the back of his
+mind suddenly came clear.
+</p>
+
+<p>
+Susan Self had said that she and
+her father had seen the precision
+dancers at the New Roxy Theater in
+New York and later the Professor
+had said they were going to spend
+the money on chorus girls. Susan had
+got it wrong. The Rockettes&mdash;the
+precision chorus girls. The Professor
+had said they were going to spend
+the money on <emph>rockets</emph>, and Susan had
+misunderstood.
+</p>
+
+<p>
+But billions of dollars expended on
+rockets? How? But, above all, to
+what end?
+</p>
+
+<p>
+If he'd only been able to hold onto
+Susan, or her father; or to Voss or
+Nostrand, for that matter. Someone
+to work on. But each had slipped
+through his fingers.
+</p>
+
+<p>
+Which brought something else up
+from his subconscious. Something
+which had been tugging at him.
+</p>
+
+<p>
+At the office, Irene Day was packing
+her things as he entered. Packing
+as though she was leaving for good.
+</p>
+
+<p>
+<q>What goes on?</q> Larry growled.
+<q>I'm going to be needing you. Things
+are coming to a head.</q>
+</p>
+
+<p>
+She said, a bit snippishly, Larry
+thought, <q>Miss Polk, in the Boss' office,
+said for you to see her as soon as
+you came in, Mr. Woolford.</q>
+</p>
+
+<p>
+<q>Oh?</q>
+</p>
+
+<p>
+He made his way to LaVerne's office,
+his attention actually on the ideas
+churning in his mind.
+</p>
+
+<p>
+She looked up when he entered.
+</p>
+
+<p>
+Larry said, <q>The Boss wanted to
+see me?</q>
+</p>
+
+<pb n='057'/><anchor id='Pg057'/>
+
+<p>
+LaVerne ducked her head, as
+though embarrassed. <q>Not exactly,
+Larry.</q>
+</p>
+
+<p>
+He gestured with his thumb in the
+direction of his own cubicle office.
+<q>Irene just said you wanted me.</q>
+</p>
+
+<p>
+LaVerne looked up into his face.
+<q>The Boss and Mr. Foster, too, are
+boiling about your authorizing that
+Distelmayer man to bill this department
+for information he gave you.
+The Boss hit the roof. Something
+about the Senate Appropriations
+Committee getting down on him if it
+came out that we bought information
+from professional espionage agents.</q>
+</p>
+
+<p>
+Larry said, <q>It was information we
+needed, and Foster gave me the go
+ahead on locating Frol Eivazov. Maybe
+I'd better see the Boss.</q>
+</p>
+
+<p>
+LaVerne said, <q>I don't think he
+wants to see you, Larry. They're up
+to their ears in this Movement thing.
+It's in the papers <emph>now</emph> and nobody
+knows what to do next. The President
+is going to make a speech on TriD,
+and the Boss has to supply the information.
+His orders are for you to
+resume your vacation. To take a
+month off and then see him when
+you get back.</q>
+</p>
+
+<p>
+Larry sank down into a chair. <q>I
+see,</q> he said, <q>And at that time he'll
+probably transfer me to janitor service.</q>
+</p>
+
+<p>
+<q>Larry,</q> LaVerne said, almost impatiently,
+<q>why in the world didn't
+you take that job Walt Foster has
+now when the Boss offered it to
+you?</q>
+</p>
+
+<p>
+<q>Because I'm stupid, I suppose,</q>
+Larry said bitterly. <q>I thought I could
+do more working alone than at an administrative
+post tangled in red tape
+and bureaucratic routine.</q>
+</p>
+
+<p>
+She said, <q>Sorry, Larry.</q> She sounded
+as though she meant it.
+</p>
+
+<p>
+Larry stood up. <q>Well, tonight I'm
+going to hang one on, and tomorrow
+it's back to Florida.</q>  He said in a
+rush, <q>Look LaVerne, how about that
+date we've been talking about for six
+months or more?</q>
+</p>
+
+<p>
+She looked up at him. <q>I can't
+stand vodka martinis.</q>
+</p>
+
+<p>
+<q>Neither can I,</q> he said glumly.
+</p>
+
+<p>
+<q>And I don't get a kick out of
+prancing around, a stuffed shirt
+among fellow stuffed shirts, at some
+goings-on that supposedly improves
+my culture status.</q>
+</p>
+
+<p>
+Larry said <q>At the house I have
+every known brand of drinkable, and
+a stack of ... what did you call it? ... corny
+music.  We can mix our
+own drinks and dance all by ourselves.</q>
+</p>
+
+<p>
+She tucked her head to one side
+and looked at him suspiciously. <q>Are
+your intentions honorable?</q>
+</p>
+
+<p>
+<q>We can even discuss that later,</q>
+he said sourly.
+</p>
+
+<p>
+She laughed. <q>It's a date, Larry.</q>
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+He picked her up after work, and
+they drove to his Brandywine auto-bungalow,
+largely quiet the whole
+way.
+</p>
+
+<p>
+At one point she touched his hand
+with hers and said, <q>It'll work out,
+Larry.</q>
+</p>
+
+<p>
+<q>Yeah,</q> he said sourly. <q>I've put
+ten years into ingratiating myself
+with the Boss. Now, overnight, he's
+<pb n='058'/><anchor id='Pg058'/>
+got a new boy. I suppose there's some
+moral involved.</q>
+</p>
+
+<p>
+When they pulled up before his
+auto-bungalow, LaVerne whistled appreciatively.
+<q>Quite a neighborhood
+you're in.</q>
+</p>
+
+<p>
+He grunted. <q>A good address.
+What our friend Professor Voss
+would call one more status symbol,
+one more social-label. For it I pay
+about fifty per cent more rent than
+my budget can afford.</q>
+</p>
+
+<p>
+He ushered her inside and took her
+jacket. <q>Look,</q> he said, indicating his
+living room with a sweep of hand.
+<q>See that volume of Klee reproductions
+there next to my reading chair?
+That proves I'm not a weird. Indicates
+my culture status. Actually, my
+appreciation of modern art doesn't go
+any further than the Impressionists.
+But don't tell anybody. See those
+books up on my shelves. Same thing.
+You'll find everything there that
+<emph>ought</emph> to be on the shelves of any ambitious
+young career man.</q>
+</p>
+
+<p>
+She looked at him from the side of
+her eyes. <q>You're really soured, Larry.</q>
+</p>
+
+<p>
+<q>Come along,</q> he said. <q>I want to
+show you something.</q>
+</p>
+
+<p>
+He took her down the tiny elevator
+to his den.
+</p>
+
+<p>
+<q>How hypocritical can you get?</q>
+he asked her. <q>This is where I really
+live. But I seldom bring anyone here.
+Wouldn't want to get a reputation as
+a weird. Sit down, LaVerne, I'll make
+a drink. How about a Sidecar?</q>
+</p>
+
+<p>
+She sank onto the couch, kicked her
+<pb n='059'/><anchor id='Pg059'/>
+shoes off and slipped her feet under
+her. <q>I'd love one,</q> she said.
+</p>
+
+<p>
+His back to her, he brought brandy
+and cointreau from his liquor cabinet,
+lemon and ice from the tiny refrigerator.
+</p>
+
+<p>
+<q>What?</q> LaVerne said mockingly.
+<q>No auto-bar?</q>
+</p>
+
+<p>
+<q>Upstairs with the rest of the status
+symbols,</q> Larry grunted.
+</p>
+
+<p>
+He put her drink before her and
+turned and went to the record player.
+</p>
+
+<p>
+<q>In the way of corny music, how do
+you like that old-timer, Nat Cole?</q>
+</p>
+
+<p>
+<q>King Cole? Love him,</q> LaVerne
+said.
+</p>
+
+<p>
+The strains of <q>For All We Know</q>
+penetrated the room.
+</p>
+
+<p>
+Larry sat down across from her, finished
+half his drink in one swallow.
+</p>
+
+<p>
+<q>I'm beginning to wonder whether
+or not this Movement doesn't have
+something,</q> he said.
+</p>
+
+<p>
+She didn't answer that. They sat in
+silence for a while, appreciating the
+drink. Nat Cole was singing <q>The
+Very Thought of You</q> now. Larry got
+up and made two more cocktails. This
+time he sat next to her. He leaned his
+head back on the couch and closed
+his eyes.
+</p>
+
+<p>
+Finally he said softly, <q>When Steve
+Hackett and I were questioning Susan,
+there was only one other person
+who knew that we'd picked her up.
+There was only one person other
+than Steve and me who could have
+warned Ernest Self to make a getaway.
+Later on, there was only one
+person who could have warned Frank
+Nostrand so that he and the Professor
+could find a new hideout.</q>
+</p>
+
+<p>
+She said sleepily, <q>How long have
+you known about that, darling?</q>
+</p>
+
+<p>
+<q>A while,</q> Larry said, his own voice
+quiet. <q>I figured it out when I also decided
+how Susan Self was spirited
+out of the Greater Washington Hilton,
+before we had the time to question
+her further. Somebody who had
+access to tapes made of me while I
+was making phone calls cut out a section
+and dubbed in a voice so that
+Betsy Hughes, the Secret Service matron
+who was watching Susan, was
+fooled into believing it was I ordering
+the girl to be turned over to the two
+Movement members who came to
+get her.</q>
+</p>
+
+<p>
+LaVerne stirred comfortably and
+let her head sink onto his shoulder.
+<q>You're so warm and ... comfortable,</q>
+she said.
+</p>
+
+<p>
+Larry said softly, <q>What does the
+Movement expect to do with all that
+counterfeit money, LaVerne?</q>
+</p>
+
+<p>
+She stirred against his shoulder, as
+though bothered by the need to talk.
+<q>Give it all away,</q> she said. <q>Distribute
+it all over the country and
+destroy the nation's social currency.</q>
+</p>
+
+<p>
+It took him a long moment to assimilate
+that.
+</p>
+
+<p>
+<q>What have the rockets to do with
+it?</q>
+</p>
+
+<p>
+She stirred once again, as though
+wishing he'd be silent. <q>That's how it
+will be distributed. About twenty
+rockets, strategically placed, each with
+a <emph>warhead</emph> of a couple of tons of
+money. Fired to an altitude of a couple
+of hundred miles and then the
+money is spewed out. In falling, it
+will be distributed over cities and
+<pb n='060'/><anchor id='Pg060'/>
+countryside, everywhere. Billions
+upon billions of dollars worth.</q>
+</p>
+
+<p>
+Larry said, so softly as hardly to be
+heard, <q>What will that accomplish?</q>
+</p>
+
+<p>
+<q>Money is the greatest social-label
+of them all. The Professor believes
+that through this step the Movement
+will have accomplished its purpose.
+That people will be forced to utilize
+their judgment, rather than depend
+upon social-labels.</q>
+</p>
+
+<p>
+Larry didn't follow that, but he had
+no time to go further now. He said,
+still evenly soft, <q>And when is the
+Movement going to do this?</q>
+</p>
+
+<p>
+La Verne moved comfortably. <q>The
+trucks go out to distribute the money
+tonight. The rockets are waiting. The
+firing will take place in a few days.</q>
+</p>
+
+<p>
+<q>And where is the Professor now?</q>
+</p>
+
+<p>
+<q>Where the money and the trucks
+are hidden, darling. What difference
+does it make?</q> LaVerne said sleepily.
+</p>
+
+<p>
+<q>And where is that?</q>
+</p>
+
+<p>
+<q>At the Greater Washington
+Trucking Corporation. It's owned by
+one of the Movement's members.</q>
+</p>
+
+<p>
+He said. <q>There's a password. What
+is it?</q>
+</p>
+
+<p>
+<q>Judgment.</q>
+</p>
+
+<p>
+Larry Woolford bounced to his feet.
+He looked down at her, then over at
+the phone. In three quick steps he
+was over to it. He grasped its wires
+and yanked them from the wall, silencing
+it. He slipped into the tiny
+elevator, locking the door to the den
+behind him.
+</p>
+
+<p>
+As the door slid closed, her voice
+wailed, still sleepily husky, <q>Larry,
+darling, where are you&mdash;</q>
+</p>
+
+<p>
+He ran down the walk of the house,
+vaulted into the car and snapped on
+its key. He slammed down the lift
+lever, kicked the thrust pedal and
+was thrown back against the seat by
+the acceleration.
+</p>
+
+<p>
+Even while he was climbing, he
+flicked on the radio-phone, called
+Personal Service for the location of
+the Greater Washington Trucking
+Corporation.
+</p>
+
+<p>
+Fifteen minutes later, he parked a
+block away from his destination, noting
+with satisfaction that it was still
+an hour or more to go until dark. His
+intuition, working doubletime now,
+told him that they'd probably wait until
+nightfall to start their money-laden
+trucks to rolling.
+</p>
+
+<p>
+He hesitated momentarily before
+turning on the phone and dialing the
+Boss' home address.
+</p>
+
+<p>
+When the other's face faded in, it
+failed to display pleasure when the
+caller's identity was established. His
+superior growled, <q>Confound it,
+Woolford, you know my privacy is to
+be respected. This phone is to be
+used only in extreme emergency.</q>
+</p>
+
+<p>
+<q>Yes, sir,</q> Larry said briskly. <q>It's
+the Movement&mdash;</q>
+</p>
+
+<p>
+The other's face darkened still further.
+<q>You're not on that assignment
+any longer, Woolford. Walter Foster
+has taken over and I'm sympathetic to
+his complaints that you've proven
+more a hindrance than anything
+else.</q>
+</p>
+
+<p>
+Larry ignored his words, <q>Sir, I've
+tracked them down. Professor Voss is
+at the Greater Washington Trucking
+Corporation garages here in the Alexandria
+section of town. Any moment
+<pb n='061'/><anchor id='Pg061'/>
+now, they're going to start distribution
+of all that counterfeit money on
+some scatterbrain plan to disrupt the
+country's exchange system.</q>
+</p>
+
+<p>
+Suddenly alert, the department
+chief snapped, <q>Where are you, Woolford?</q>
+</p>
+
+<p>
+<q>Outside the garages, sir. But I'm
+going in now.</q>
+</p>
+
+<p>
+<q>You stay where you are,</q> the other
+snapped. <q>I'll have every department
+man and every Secret Service man in
+town over there within twenty minutes.
+You hang on. Those people are
+lunatics, and probably desperate.</q>
+</p>
+
+<p>
+Inwardly, Larry Woolford grinned.
+He wasn't going to lose this opportunity
+to finish up the job with him on
+top. He said flatly, <q>Sir, we can't
+chance it. They might escape. I'm going
+in!</q> He flicked off the set, dialed
+again and raised Sam Sokolski.
+</p>
+
+<p>
+<q>Sam,</q> he said, his voice clipped.
+<q>I've cornered the Movement's leader
+and am going in for the finish. Maybe
+some of you journalist boys better get
+on over here.</q> He gave the other the
+address and flicked off before there
+were any questions.
+</p>
+
+<milestone unit='tb' rend='rule: 50%'/>
+
+<p>
+From the dash compartment he
+brought a heavy automatic, and
+checked the clip. He put it in his hip
+pocket and left the car and walked
+toward the garages. Time was running
+out now.
+</p>
+
+<p>
+He strode into the only open door,
+without shift of pace. Two men were
+posted nearby, neither of them truckmen
+by appearance. They looked at
+him in surprise.
+</p>
+
+<p>
+Larry clipped out, <q>The password
+is <emph>Judgment</emph>. I've got to see Professor
+Voss immediately.</q>
+</p>
+
+<p>
+One of them frowned questioningly,
+but the other was taken up with
+the urgency in Woolford's voice. He
+nodded with his head. <q>He's over
+there in the office.</q>
+</p>
+
+<p>
+Now ignoring them completely,
+Larry strode past the long rows of
+sealed delivery vans toward the office.
+</p>
+
+<p>
+He pushed the door open, entered
+and closed it behind him.
+</p>
+
+<p>
+Professor Peter Voss was seated at
+a paper-littered desk. There was a cot
+with an army blanket in a corner of
+the room, some soiled clothing and
+two or three dirty dishes on a tray.
+The room was being lived in, obviously.
+</p>
+
+<p>
+At the agent's entry, the little man
+looked up and blinked in distress
+through his heavy lenses.
+</p>
+
+<p>
+Larry snapped, <q>You're under arrest,
+Voss.</q>
+</p>
+
+<p>
+The professor was obviously dismayed,
+but he said in as vigorous a
+voice as he could muster, <q>Nonsense!
+On what charge?</q>
+</p>
+
+<p>
+<q>Counterfeiting, among many.
+Your whole scheme has fallen apart,
+Voss. You and your Movement, so-called,
+are finished.</q>
+</p>
+
+<p>
+The professor's eyes darted, left,
+right. To Larry Woolford's surprise,
+the Movement's leader was alone in
+here. Undoubtedly, he was awaiting
+others, drivers of the trucks, technicians
+involved in the rockets, other
+subordinates. But right now he was
+alone.
+</p>
+
+<p>
+If Woolford correctly diagnosed
+<pb n='062'/><anchor id='Pg062'/>
+the situation, Voss was playing for
+time, waiting for the others. Good
+enough, so was Larry Woolford. Had
+the Professor only known it, a shout
+would have brought at least two followers
+and the government agent
+would have had his work cut out for
+him.
+</p>
+
+<p>
+Woodford played along. <q>Just what
+is this fantastic scheme of yours for
+raining down money over half the
+country, Voss? The very insanity of it
+proves your whole outfit is composed
+of a bunch of nonconformist weirds.</q>
+</p>
+
+<p>
+The Professor was indignant&mdash;and
+stalling for time. He said, <q>Nonconformists
+is correct! He who conforms
+in an incompetent society is an incompetent
+himself.</q>
+</p>
+
+<p>
+Larry stood, his legs apart and
+hands on hips. He shook his head in
+simulated pity at the angry little man.
+<q>What's all this about raining money
+down over the country?</q>
+</p>
+
+<p>
+<q>Don't you see?</q> the other said.
+<q rend='pre'>The perfect method for disrupting
+our present system of social-labels.
+With billions of dollars, perfect counterfeit,
+strewing the streets, the fields,
+the trees, available for anyone to pick
+up, all social currency becomes worthless.
+Utterly unusable. And it's no use
+to attempt to print more with another
+design, because we can duplicate
+it as well. Our experts are the
+world's best, we're not a group of
+sulking criminals but capable, trained,
+dedicated men.</q>
+</p>
+
+<p>
+<q>Very well! We will have made it
+absolutely impossible to have any
+form of mass-produced social currency.</q>
+</p>
+
+<p>
+Larry stared at him. <q>It would completely
+foul the whole business system!
+You'd have chaos!</q>
+</p>
+
+<p>
+<q>At first. Private individuals, once
+the value of money was seen to be
+zero, would have lost the amount of
+cash they had on hand. But banks
+and such institutions would lose little.
+They have accurate records that
+show the actual values they held at
+the time our money rains down.</q>
+</p>
+
+<p>
+Larry was bewildered. <q>But what
+are you getting at? What do you expect
+to accomplish?</q>
+</p>
+
+<p>
+The Professor, on his favorite subject,
+said triumphantly, <q>The only
+form of currency that can be used
+under these conditions is the <emph>personal</emph>
+check. It's not mass produced, and
+mass-production can't duplicate it.
+It's immune to the attack. Business
+has to go on, or people will starve&mdash;so
+personal checks will have to replace
+paper money. Credit cards and
+traveler's checks won't do&mdash;we can
+counterfeit them, too, and will, if
+necessary. Realize of course that hard
+money will still be valid, but it can't
+be utilized practically for any but
+small transactions. Try taking enough
+silver dollars to buy a refrigerator
+down to the store with you.</q>
+</p>
+
+<p>
+<q>But what's the purpose?</q> Larry
+demanded, flabbergasted.
+</p>
+
+<p>
+<q>Isn't it obvious? Our whole Movement
+is devoted to the destruction of
+social-label judgments. It's all very
+well to say: <hi rend='italic'>You should not judge
+your fellow men</hi> but when it comes to
+accepting another man's personal
+check, friend, you damn well have to!
+The bum check artist might have a
+<pb n='063'/><anchor id='Pg063'/>
+field day to begin with&mdash;but only to
+begin with.</q>
+</p>
+
+<p>
+Larry shook his head in exasperation.
+<q>You people are a bunch of
+anarchists,</q> he accused.
+</p>
+
+<p>
+<q>No,</q> the Professor denied. <q>Absolutely
+not. We are the antithesis of
+the anarchist. The anarchist says, <q>No
+man is capable of judging another.</q>
+We say, <q>Each man must judge his fellow,
+must demand proper evaluation
+of him.</q> To judge a man by his
+clothes, the amount of money he
+owns, the car he drives, the neighborhood
+in which he lives, or the society
+he keeps, is out of the question in a
+vital culture.</q>
+</p>
+
+<p>
+Larry said sourly, <q>Well, whether
+or not you're right, Voss, you've lost.
+This place is surrounded. My men
+will be breaking in shortly.</q>
+</p>
+
+<p>
+Voss laughed at him. <q>Nonsense.
+All you've done is prevent us from
+accomplishing this portion of our
+program. What will you do after my
+arrest? You'll bring me to trial. Do
+you remember the Scopes' Monkey
+Trial back in the 1920s which became
+a world appreciated farce and
+made Tennessee a laughingstock?
+Well, just wait until you get <emph>me</emph> into
+court backed by my organization's resources.
+We'll bring home to every
+thinking person, not only in this
+country, but in the world, the fantastic
+qualities of our existing culture.
+Why, Mr.-Secret-Agent-of-Anti-Subversive-Activity
+you aren't doing me
+an injury by giving me the opportunity
+to have my day in court. You're
+doing me a favor. Newspapers, radios,
+TriD will give me the chance to expound
+my program in the home of
+every thinking person in the world.</q>
+</p>
+
+<p>
+There was a fiery dedication in the
+little man's eyes. <q>This will be my
+victory, not my defeat!</q>
+</p>
+
+<p>
+There were sounds now, coming
+from the other rooms&mdash;the garages.
+Some shouts and scuffling. Faintly,
+Larry Woolford could hear Steve
+Hackett's voice.
+</p>
+
+<p>
+He was staring at the Professor, his
+eyes narrower.
+</p>
+
+<p>
+The Professor was on his feet. He
+said in defiant triumph, <q>You think
+that you'll win prestige and honor as
+a result of tracking the Movement
+down, don't you, Mr. Woolford?
+Well, let me tell you, you won't! In
+six months from now, Mr. Woolford,
+you'll be a laughingstock.</q>
+</p>
+
+<p>
+That did it.
+</p>
+
+<p>
+Larry said, <q>You're under arrest.
+Turn around with your back to me.</q>
+</p>
+
+<p>
+The Professor snorted his contempt,
+turned his back and held up
+his hands, obviously expecting to be
+searched.
+</p>
+
+<p>
+In a fluid motion, Larry Woolford
+drew his gun and fired twice. The
+other with no more than a grunt of
+surprise and pain, stumbled forward
+to his knees and then to the floor, his
+arms and legs akimbo.
+</p>
+
+<p>
+The door broke open and Steve
+Hackett, gun in hand, burst in.
+</p>
+
+<p>
+<q>Woolford!</q> he barked. <q>What's
+up?</q>
+</p>
+
+<p>
+Larry indicated the body on the
+floor. <q>There you are, Steve,</q> he said.
+<q>The head of the counterfeit ring. He
+was trying to escape. I had to shoot
+him.</q>
+</p>
+
+<pb n='064'/><anchor id='Pg064'/>
+
+<p>
+Behind Steve Hackett crowded Ben
+Ruthenberg of the F.B.I. and behind
+him half a dozen others of various
+departments.
+</p>
+
+<p>
+The Boss came pushing his way
+through.
+</p>
+
+<p>
+He glared down at the Professor's
+body, then up at Larry Woolford.
+</p>
+
+<p>
+<q>Good work, Lawrence,</q> he
+said. <q>How did you bring it off?</q>
+</p>
+
+<p>
+Larry replaced the gun in his holster
+and shrugged modestly. <q>The
+Polk girl gave me the final tip-off,
+sir. I gave her some Scop-Serum in a
+drink and she talked. Evidently, she
+was a member of the Movement.</q>
+</p>
+
+<p>
+The Boss was nodding wisely. <q>I've
+had my eye on her, Lawrence. An obvious
+weird. But we will have to suppress
+that Scop-Serum angle.</q> He
+slapped his favorite field man on the
+arm jovially. <q>Well, boy, this means
+promotion, of course.</q>
+</p>
+
+<p>
+Larry grinned. <q>Thanks, sir. All in
+a day's work. I don't think we'll
+have much trouble with the remnants
+of this Movement thing. The pitch is
+to treat them as counterfeiters, not
+subversives. Try them for that. Their
+silly explanations of what they were
+going to do with the money will never
+be taken seriously.</q> He looked down
+at the small corpse. <q>Particularly now
+that their kingpin is gone.</q>
+</p>
+
+<p>
+A new wave of agents, F.B.I. men
+and prisoners washed into the room
+and Steve Hackett and Larry were for
+a moment pushed back into a corner
+by themselves.
+</p>
+
+<p>
+Steve looked at him strangely and
+said, <q>There's one thing I'd like to
+know: Did you really have to shoot
+him, Woolford?</q>
+</p>
+
+<p>
+Larry brushed it off. <q>What's the
+difference? He was as weird as they
+come, wasn't he?</q>
+</p>
+
+<p>
+THE END
+</p>
+</div>
+</body>
+<back rend="page-break-before: right">
+  <div rend="page-break-before: right">
+    <divGen type="pgfooter" />
+  </div>
+</back>
+</text>
+</TEI.2>
